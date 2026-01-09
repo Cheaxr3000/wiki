@@ -1,6 +1,6 @@
  # Règles
 
-Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement ces règles pour une expérience plus sur et plaisante.
+Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement ces règles pour une expérience plus sûre et plaisante.
 
 ## Règles de la Communauté
 
@@ -33,9 +33,9 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 	Toute utilisateur doit avoir au moins 13 ans pour rejoindre Titanic. Les propriétaires de compte qui auront été trouvés d'être âgée en dessous de ce nombre seront suspendus jusqu'à ce que la preuve d'éligibilité soit donnée.
 
 11. **Faites preuve de bon sens.**  
-	Le personnel a totalement le droit d'appliquer son jugement comme bon lui semble.
+	Le personnel a totalement le droit d'appliquer son jugement comme bon lui semble, en rapport avec cette règle.
 
-## Règles de chat en jeu.
+## Règles de chat en jeu
 
 1. **Soyez respectueux et attentionné envers les autres dans le canal.**  
 	Éviter d'inonder ou de spammer. Prendre la moitié de l'écran à vous-même est embêtant, donc, s'il-vous-plaît évitez de le faire quand c'est possible.
