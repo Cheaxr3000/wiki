@@ -7,7 +7,7 @@ Pour commencer à jouer à Titanic!, vous pouvez aller sur la [page de télécha
 ![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
 
 Après que cela ai fini de télécharger, tout ce que vous devez faire est extraire le fichier et double cliquer sur `osu.exe`.
-Il y a une chance que Windows Defender le bloque, vu que le jeu n'est pas signé (un certificat coûterait $200). Une alternative serait d'utiliser le [[Patcheur]], qui est toujours expérimental, mais ne se fait pas bloquer par Windows Defender selon nos tests. (unsure)
+Il y a une chance que Windows Defender le bloque, vu que le jeu n'est pas signé (un certificat coûterait $200). Une alternative serait d'utiliser le [[Patcheur]], qui est toujours expérimental, mais ne se fait pas bloquer par Windows Defender selon nos tests.
 
 ## Créer un compte
 
@@ -121,7 +121,7 @@ Ceci est ce à quoi cela devrait ressembler:
 
 Maintenant, vous pouvez lancer osu! et vous amusez!
 
-**NOTE:** Soyez sûre de mettre l'offset aux alentours de `-30`à `-20ms`. Comme cela, l'audio sera comme sur Windows!
+**NOTE:** Soyez sûre de mettre l'offset aux alentours de `-30` à `-20ms`. Comme cela, l'audio sera comme sur Windows!
 
 **Note pour les utilisateurs de Wayland**
 
@@ -136,7 +136,7 @@ Si vous avez n'importe quel problème, n'ayez pas peur de demander dans le [Serv
 
 Pour faire tourner Titanic! sur un ordinateur Macintosh, vous auriez besoin des choses suivante:
 
-- Un macintosh supporté (2011 et après)
+- Un Macintosh supporté (2011 et après)
 - Un client depuis la [page de téléchargement](https://osu.titanic.sh/download/)
 - Le bon wineskin
     - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Utilisé avec les clients de mi-2015 ou avant, ou ceux marqué en tant que ”fallback”
