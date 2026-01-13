@@ -1,23 +1,24 @@
-# Critère de Ranking de Titanic!
+# Critère de classement de Titanic!
 
-Ces ensemble de critère de ranking établisses les règles et directivrs que les 'beatmaps' doivent suivre afin de progresser dans la procédure de ranking de 'beatmap'.
-Les critère de ranking suivent en grande partie la version [original](https://osu.ppy.sh/wiki/en/Ranking_criteria) avec quelque petits changement.
+Ces ensemble de critère de classement établisses les règles et directivrs que les 'beatmaps' doivent suivre afin de progresser dans la procédure de classement de 'beatmap'.
+Les critère de classement suivent en grande partie la version [original](https://osu.ppy.sh/wiki/en/Ranking_criteria) avec quelque petits changement.
 
-Les règles ont aussi été simplifié pour donner au mappeurs une perspective clair sur ce qui est requis pour crée une 'beatmap' rankable. Les sections qui ne sont pas traité dans ce document devront être réferencer depuis [ici](https://osu.ppy.sh/wiki/en/Ranking_criteria).
+Les règles ont aussi été simplifié pour donner au mappeurs une perspective clair sur ce qui est requis pour crée une 'beatmap' classable. Les sections qui ne sont pas traité dans ce document devront être réferencer depuis [ici](https://osu.ppy.sh/wiki/en/Ranking_criteria).
 
 [TOC]
 
-For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
-Pour qu'une 'beatmap' soit rankée, elle doit suivre ce critère de ranking, ainsi qu'avoir été revue par au moins **2 [membres indépendent du BAT](https://osu.titanic.sh/g/3)**, plus un pour chaque mode. 
+Pour qu'une 'beatmap' soit classée, elle doit suivre ce critère de classement, ainsi qu'avoir été revue par au moins **2 [membres indépendent du BAT](https://osu.titanic.sh/g/3)**, plus un pour chaque mode de jeux. Cela veut dire, qu'un BAT ne peux pas approuvé leur propre map, et que les 'beatmaps' avec plusieurs modes de jeux requièrent aussi une approbation d'autre membres du BAT de ce mode de jeux.
 This criteria may change in the future, due to increasing map requests and BAT members.
+Ces critères pourrait changer dans le futur, due à la requête de map et membres du BAT montante. (unsure, seems weird)
 
-# Beatmap
+# 'Beatmap'
 
-- **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
-- **Difficulties must be at least 30 seconds long.**
-- **Maps should use as much of the audio file as reasonably possible.** If you have large portions unmapped, consider cutting the song.
-- **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
+- **Soyez sûre que tout dans la 'beatmap' est claire, en termes de la "[content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions) (cette page n'existe pas en français)."**
+- **Les difficultés doivent faire au moins 30 secondes de long.**
+- **La 'beatmap' devrait utilisé au plus possible et raisonablement le fichier audio.** Si vous avez une grande proportion non mappé, considérez de coupez la musique.
+- **Les 'beatmaps' ne doivent pas utiliser des paramètres décimale.** (c.-à-d. AR9.3 -> 9)
 - **Maps must not use any backgrounds, music, or objects made with the use of generative tooling.**
+- **Les 'beatmaps' ne doivent pas utlisé n'importe quelle arrière plan, musique, ou objets génerée via l'utilisation d'un outil géneratif.** (unsure)
 
 ### Spread
 
