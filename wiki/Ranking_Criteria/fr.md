@@ -22,13 +22,13 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 
 ### Spread
 
-- **Mapsets must have a total drain time of at least 90 seconds (1 minute and 30 seconds).**
-- **Difficulty names must have progression.**
-  - Easy -> Normal -> Hard -> Insane -> Expert is default.
-  - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
-  - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
-- **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
-- **A [guest mapper](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
+- **Les 'mapsets' doivent avoir un 'drain time' total de au moins 90 secondes (1 minute et 30 secondes).**
+- **Les noms de difficultés doivent avoir une progression.**
+	- Easy -> Normal -> Hard -> Insane -> Expert, est la progression par défaut.
+	- Une progression logique comme Seed -> Sprout -> Tree sont autorisée aussi.
+	- **Exception:** La difficulté la plus dure peut utilisée un nom personnalisé, comme Normal -> Hard -> *Melancholy*
+- **Ne sauter pas de difficultés.** Par example, si vous avez des difficultées Normal et Insane, vous avez besoin d'une Hard aussi
+- **Un [meppeur invité](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) ne peut pas créer plus de difficulté que l'[hôte](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
 
 ### Slider Usage
 
