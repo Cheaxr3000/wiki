@@ -97,33 +97,34 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 - **Utilisez des fichiers de formats `.mp3` ou `.ogg`.**
   - Au plus 192 kbps pour les fichier `.mp3`.
   - Au plus 208 kbps pour les fichier `.ogg`. 
-  - At least 128 kbps for any filetype.
-- **One song file must be used for all difficulties.**
-- **Set a consistent preview point for all difficulties.**
+  - Au moins 128 kbps pour n'importe quelle type de fichier.
+- **Un fihier de musique doit être utilisé pour toute les difficultées.**
+- **Mettez un point d'aperçue consistent pour toute les difficultées.**
 
 ### Hitsounds
 
 - **Hitsound files must be at least 25 ms long and use `.wav` or `.ogg` file formats.**
-  - Do not use `.mp3`.
-  - **Exception:** Use [this file](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
-- **Hitsounds must not be [delayed](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/delay.png).**
+- **Les fichiers de hitsounds doivent faire au moins 25 ms de long et utilisez les formats de fichier `.wav` ou `.ogg`.**
+  - N'utilisez pas `.mp3`
+  - **Exception:** Utilisez [ce fichier](https://up.ppy.sh/files/blank.wav) for silent hitsounds.
+- **Les hitsounds ne doivent pas être [en retard](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/delay.png).**
 
-### Background
+### Arrière-plan
 
-- **Every difficulty must have a background adhering to the following:**
-  - **Minimum width:** 160 px
-  - **Minimum height:** 120 px
-  - **Maximum width:** 2560 px
-  - **Maximum height:** 1440 px
-  - **Maximum file size:** 2.5 MB
-- **Link the source of the map's background in the description.**
+- **Chaque difficultées doivent avoir un arrière-plan se conformant aux principes suivants:**
+  - **Largeur minimum:** 160 px
+  - **Hauteur minimum:** 120 px
+  - **Largeur maximum:** 2560 px
+  - **Hauteur maximum:** 1440 px
+  - **Taille de fichier maximum:** 2.5 MB
+- **Mettez un lien vers la source de l'arrière-plan de la 'beatmaps' dans la description.**
 
-### Video
+### Vidéo
 
-- **Videos must adhere to the following:**
-  - **Maximum video resolution:** 1280x720
-  - **Video encoding:** H.264
-- **The audio track must be removed from video files.**
+- **Les vidéos doivent se confomées aux principes suivants:**
+  - **Résolution maximum de la vidéo:** 1280x720
+  - **Encodage vidéo:** H.264
+- **La piste audio doit être enlever du fichier video.**
 
 ## Mode-specific
 
