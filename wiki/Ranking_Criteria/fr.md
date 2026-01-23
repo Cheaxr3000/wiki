@@ -146,21 +146,21 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 
 | Difficulty | Break | Chain length |
 | ---------: | :---: | :----------: |
-| **Kantan** | ![3/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/kantan.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/futsuu.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu1.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu2.png "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/oni.png "1/1") | Break needed every 16–20 beats |
+| **Kantan** | ![3/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/kantan.png "3/1") | Pause néccessité chaque 32–36 beats |
+| **Futsuu** | ![2/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/futsuu.png "2/1") | Pause néccessité chaque 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu1.png "3/2") | Pause néccessité chaque 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu2.png "3 consecutive 1/1") | Pause néccessité chaque 16–20 beats |
+| **Oni** | ![1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/oni.png "1/1") | Pause néccessité chaque 16–20 beats |
 
 ### osu!catch
 
-- **[The Auto mod](https://osu.ppy.sh/wiki/Gameplay/Game_modifier/Auto) must be able to SS your map.**
-- **Avoid [dashes](https://osu.ppy.sh/wiki/Gameplay/Dash) and [hyperdashes](https://osu.ppy.sh/wiki/Gameplay/Hyperdash) that lead to the edges of the screen.** Placements between x = 16 and x = 496 are okay.
-- **[Overall difficulty](https://osu.ppy.sh/wiki/Beatmap/Overall_difficulty) should match [approach rate](https://osu.ppy.sh/wiki/Beatmap/Approach_rate).**
+- **[Le mod Auto](https://osu.ppy.sh/wiki/Gameplay/Game_modifier/Auto) doit être capable de SS votre map.**
+- **Évitez des [dashes](https://osu.ppy.sh/wiki/Gameplay/Dash) et [hyperdashes](https://osu.ppy.sh/wiki/Gameplay/Hyperdash) qui amène au bords de l'écran.** Des placements entre x = 16 et x = 496 sont acceptable.
+- **[L'overall difficulty](https://osu.ppy.sh/wiki/Beatmap/Overall_difficulty) devrait correspondre à l'[approach rate](https://osu.ppy.sh/wiki/Beatmap/Approach_rate).**
 
 ### osu!mania
 
-- **[Spread](#spread) rules apply to each key mode or [playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) separately.** For example, if you have 4K and 7K difficulties, you need two difficulty spreads.
+- **Les règles de [spread](#spread) s'applique à chaque mode de touches ou [playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) separately.** Par exemple, si vous avez des difficultés en 4K et en 7K, vous avez besoin de deux spread de difficultées..
 - **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](https://osu.ppy.sh/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
 - **No column can be left empty.**
 - **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
