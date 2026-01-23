@@ -1,4 +1,4 @@
-'# Critère de classement de Titanic!
+# Critère de classement de Titanic!
 
 Ces ensemble de critère de classement établisses les règles et directivrs que les 'beatmaps' doivent suivre afin de progresser dans la procédure de classement de 'beatmap'.
 Les critère de classement suivent en grande partie la version [original](https://osu.ppy.sh/wiki/en/Ranking_criteria) avec quelque petits changement.
@@ -126,23 +126,23 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
   - **Encodage vidéo:** H.264
 - **La piste audio doit être enlever du fichier video.**
 
-## Mode-specific
+## Spécific aux modes
 
-*Please refer to the osu! wiki for the full game-mode sepecific ranking criterias!*
+*Referrez vous s'il-vous-plaît au wiki de osu! pour le les critères de rankigns entier sur les game-modes specifiques!*
 
 ### osu!
 
-- **No offscreen objects in 4:3 aspect ratios.**
-- **[The Auto mod](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/wiki/Gameplay/Game_modifier/Auto) must achieve bonus score on spinners.** They're too short otherwise.
-- **Use at least two combo colors.**
+- **Aucun objet hors de l'écran en proportions 4:3.**
+- **Le [mod auto](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/wiki/Gameplay/Game_modifier/Auto) doit faire du score bonus sur les spinners.** Sinon ils sont trop court.
+- **Utilisez aux moins deux couleurs de combo.**
 
 ### osu!taiko
 
-- **Avoid covering essential parts of the background with the taiko playfield.** You can edit the vertical offset of the background in the [`.osu` file](/wiki/Client/File_formats/osu_(file_format)).
-- **Avoid rapid [kiai](/wiki/Gameplay/Kiai_time) toggles.**
-- **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
-- **Avoid slider velocity changes on lower difficulties.**
-- **Each difficulty should follow its respective break length guidelines:**
+- **Évitez de couvrir des parti essentiel de l'arrière ploan avec le terrain de jeu de taiko.** Vous pouvez éditez l'offset vertical du fond dans le [fichier `.osu`](/wiki/Client/File_formats/osu_(file_format)).
+- **Évitez des activations de [kiai](/wiki/Gameplay/Kiai_time) rapide.**
+- **Sur les rythmes qui sont en 1/4 ou plus rapide, utilisez uniquement des grosse notes à la fin des patternes.**
+- **Évitez d'utilisez des changement de vélocité de slider sur les difficultés plus basses.**
+- **Chaque difficultées doivent suivrent leur longueur de pause respectives:**
 
 | Difficulty | Break | Chain length |
 | ---------: | :---: | :----------: |
