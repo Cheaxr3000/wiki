@@ -1,4 +1,4 @@
-# Critère de classement de Titanic!
+'# Critère de classement de Titanic!
 
 Ces ensemble de critère de classement établisses les règles et directivrs que les 'beatmaps' doivent suivre afin de progresser dans la procédure de classement de 'beatmap'.
 Les critère de classement suivent en grande partie la version [original](https://osu.ppy.sh/wiki/en/Ranking_criteria) avec quelque petits changement.
@@ -30,71 +30,73 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 - **Ne sauter pas de difficultés.** Par example, si vous avez des difficultées Normal et Insane, vous avez besoin d'une Hard aussi
 - **Un [meppeur invité](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) ne peut pas créer plus de difficulté que l'[hôte](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
 
-### Slider Usage
+### Utilisation des 'Sliders'
 
-- **Using Perfect Curve sliders is highly discouraged.**
+- **L'utilisation de 'Sliders' à Courbe Parfaite est fortement déconseillé.**
   - Perfect Curve sliders are the type of sliders creating when a slider has 3 control points in clients b20121106 or later
+		- Les 'sliders' à Courbe Parfaite sont le genre de 'sliders' qui sont crée quand il y a 3 points de controle dans les clients à partir de 20121106 ou après (i'm not even sure what was said in english :sob:)
   - ![Example of Slider Curve Types](https://github.com/user-attachments/assets/ac50d9f8-ceb2-4fbe-9420-9cd1eba9de60)
-  - These sliders get converted to the Catmull curve type on older clients. This causes slider shapes to differ greatly, creating gameplay differences on those clients. To avoid this issue we highly encourage mappers to use any of the other curve types. In the image above you can see how identical slider skeleton lines create completely different slider paths on each curve type.
-  - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
+  - Ces 'sliders' sont convertis en sliders Catmull sur les vieux clients. Cela cause la forme des 'sliders' a différencié grandement, créeant une différences de gameplay sur ces clients. Pour éviter ces problèmes, nous recommendos vivement aux 'mappeurs' d'utilisée n'importe qu'elle autre types de courbe de 'slider'. Dans l'image si-dessus, vous pouvez voir comment des squelletes de sliders identiques crée des chemin différent sur chaque type de courbure.
+  - **Exception:** Les 'slider' à courbure parfaite avec très peu de courbe seront générallement bien converti, mais pour être sûre, nous recommendons de ne pas utilisé des courbes parfaite.
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
+  - Pour plus d'information sur comment évité l'utilisation de 'slider' à Courbe Parfaite, [regardez ce fil de discussion](https://osu.titanic.sh/forum/13/t/731/)!
 
-### Visuals
+### Visuels
 
-  - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
-  - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
+  - **Évitez d'utilisez des couleurs de combo, bordure de 'sliders' ou 'hitcircleoverlays' avec ~50 luminosité ou en bas.** Les couleurs sombre comme cela impact la lisibilité des cercles d'approches avec un assombrissement de fond assez haut, et les autres éléments ne serves partiellement plus leurs fonctions de bordures.
+  - **Évitez d'utilisez des couleurs de combo, et chemin de sliders avec ~220 de luminosité ou plus haut pendant les temps de kiai.** Cela crée des pulsasions brillantes qui peuvent être désagréable aux yeux.
 
 ### Hitsounds
 
-- **Maps must be [hitsounded](https://osu.ppy.sh/wiki/Beatmapping/Hitsound),** excluding osu!mania maps.
-- **Every clickable object must have audible feedback.**
+- **Les 'beatmaps' doivent être ['hitsounded'](https://osu.ppy.sh/wiki/Beatmapping/Hitsound),** a l'éxception des 'beatmaps' osu!mania.
+- **Chaque objet clickable doivent émettre un retour sonore audible.**
 
 ### Timing
 
-- **Maps must be correctly timed.** This includes BPM and time signatures.
-- **All difficulties must use the same timing.**
-- **Do not change timing to adjust slider velocity.**
-- **Objects must be snapped to timeline ticks.**
-- **Only one object is allowed per tick,** excluding osu!mania maps.
-- **Manual lead in time must be added to ensure the first object starts after 1500ms**
+- **Les maps doivent être correcement rhytmé.** Cela inclue le BPM et la signature des temps.
+- **Chaque difficultés doivent utilisées le même timing.**
+- **Ne changez pas les timing pour ajuster la vélocité des 'sliders'.**
+- **Les objets doivent être alignés sur les tiques du rhytme de la musique.**
+- **Seulement un object est autorisée par tiques,** à l'exception des 'beatmaps' d'osu!mania.
+- **Un temps d'avancement (appelez lead-in time) doit être ajoutez manuellement si le premier objet est placez après 1500ms**
 
-## Metadata
+## Metadonnées
 
-- **Metadata must be accurate.**
-  - Use a [primary metadata source](https://osu.ppy.sh/wiki/Beatmap/Primary_metadata_source).
-  - If the song has a Ranked or Loved map, use that map's metadata unless it's blatantly wrong.
-- **Use [Modified Hepburn romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) for Japanese words.**
+- **Les metadonnées doivent être fidèle.**
+  - Utilisez une [source primaire de métadonnées](https://osu.ppy.sh/wiki/Beatmap/Primary_metadata_source).
+  - Si la musique a une 'beatmap' classé ou 'Loved', utilisez les metadonnées de cet 'beatmap' à part si elle sont clairement mauvaise.
+- **Utilisez [la méthode Hepburn de romanisation](https://en.wikipedia.org/wiki/Hepburn_romanization#Features) pour les mots Japonais.**
 
 ### Tags
 
-- **Add usernames of anyone who contributes to the map.** This doesn't include modders.
-- **Add the song's [genre and language](https://osu.ppy.sh/wiki/Beatmap/Genre_and_language).**
-- **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
-- **Other tags must be relevant to the song/map.**
+- **Ajoutez le nom d'utilisateur de n'importe qui ayant contribuée à la 'beatmap'.** Cela n'inclue pas les moddeurs.
+- **Ajoutez le [genre et la langue](https://osu.ppy.sh/wiki/Beatmap/Genre_and_language) de la musique.**
+- **Ajoutez `featured artist` si la musique est dans le [catalogue de Featurd Artists](https://osu.ppy.sh/beatmaps/artists).**
+- **Les autres tags doivent être pertinant à la musique/'beatmap'.**
 
-### Title
+### Titre
 
-- **Songs shortened for TV must have `(TV Size)`.**
-- **Replace game version markers with `(Game Ver.)`.**
-- **Replace short version markers with `(Short Ver.)`.**
-- **Use `(Cut Ver.)` to indicate an unofficial song cut.**
-- **Use `(Extended Edit)` to indicate an unofficial song extension.**
-- **Use `(Sped Up Ver.)` to indicate an unofficial song tempo increase.** For some genres, `(Nightcore Mix)` is an okay alternative.
+- **Les musiques qui ont été raccourcis pour la Télévision doivent avoir `(TV Size)`.**
+- **Remplacez les marqueurs de version d'un jeu avec `(Game Ver.)`.**
+- **Remplacez les marqeurs de versions racourcis avec `(Short Ver.)`.**
+- **Utilisez `(Cut Ver.)` pour indiquer une coupure non officiel d'une musique.**
+- **Utilisez `(Extended Edit)` pour indinquer une extension non officiel d'une musique.**
+- **Utilisez `(Sped Up Ver.)` pour indiquer une augmentation du tempo non officiel de la usique.** Pour certains genres, `(Nightcore Mix)` est une alternative acceptable.
 
 ### Source
 
-- **Use the Source field if the song is from another media source, like a game, movie, or event.**
+- **Utilisez le champ de Source si la musique vient d'une autre source de mediatique, comme une jeu, filme ou évennement.**
 
-## Files
+## Fichiers
 
-- **Don't use inappropriate content.** See [song content rules](https://osu.ppy.sh/wiki/Rules/Song_content_rules) and [visual content considerations](https://osu.ppy.sh/wiki/Rules/Visual_content_considerations).
-- **Don't include unused files in the map folder.**
+- **N'utilisez pas de contenu inappropié.** Voir [règles générale relative au contenu des musiques](https://osu.ppy.sh/wiki/Rules/Song_content_rules) et [considerations relatives au contenue visuel](https://osu.ppy.sh/wiki/Rules/Visual_content_considerations).
+- **N'incluez pas des fichier inutliser dans le fichier de la map.**
 
-### Song
+### Musique
 
-- **Use `.mp3` or `.ogg` file formats.**
-  - At most 192 kbps for `.mp3` files.
-  - At most 208 kbps for `.ogg` files.
+- **Utilisez des fichiers de formats `.mp3` ou `.ogg`.**
+  - Au plus 192 kbps pour les fichier `.mp3`.
+  - Au plus 208 kbps pour les fichier `.ogg`. 
   - At least 128 kbps for any filetype.
 - **One song file must be used for all difficulties.**
 - **Set a consistent preview point for all difficulties.**
