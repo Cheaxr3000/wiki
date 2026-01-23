@@ -34,7 +34,7 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 
 - **L'utilisation de 'Sliders' à Courbe Parfaite est fortement déconseillé.**
   - Perfect Curve sliders are the type of sliders creating when a slider has 3 control points in clients b20121106 or later
-		- Les 'sliders' à Courbe Parfaite sont le genre de 'sliders' qui sont crée quand il y a 3 points de controle dans les clients à partir de 20121106 ou après (i'm not even sure what was said in english :sob:)
+		- Les 'sliders' à Courbe Parfaite sont le genre de 'sliders' qui sont crée quand il y a 3 points de controle dans les clients à partir de b20121106 et après (i'm not even sure what was said in english :sob:)
   - ![Example of Slider Curve Types](https://github.com/user-attachments/assets/ac50d9f8-ceb2-4fbe-9420-9cd1eba9de60)
   - Ces 'sliders' sont convertis en sliders Catmull sur les vieux clients. Cela cause la forme des 'sliders' a différencié grandement, créeant une différences de gameplay sur ces clients. Pour éviter ces problèmes, nous recommendos vivement aux 'mappeurs' d'utilisée n'importe qu'elle autre types de courbe de 'slider'. Dans l'image si-dessus, vous pouvez voir comment des squelletes de sliders identiques crée des chemin différent sur chaque type de courbure.
   - **Exception:** Les 'slider' à courbure parfaite avec très peu de courbe seront générallement bien converti, mais pour être sûre, nous recommendons de ne pas utilisé des courbes parfaite.
