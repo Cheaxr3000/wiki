@@ -161,35 +161,36 @@ Ces critères pourrait changer dans le futur, due à la requête de map et membr
 ### osu!mania
 
 - **Les règles de [spread](#spread) s'applique à chaque mode de touches ou [playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) separately.** Par exemple, si vous avez des difficultés en 4K et en 7K, vous avez besoin de deux spread de difficultées..
-- **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](https://osu.ppy.sh/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
-- **No column can be left empty.**
-- **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
-- **Difficulties using an [N+1 playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.**
+- **Les 'beatmaps' peuvent n'utilisez que 4-10, 12, 14, 16, ou 18 touches.** Les mode de touches au dessus de 10 touches doivent utilisez [certains playstyles](https://osu.ppy.sh/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
+- **Aucune colonnes ne peut être laisser vide.**
+- **Pas plus de 6 notes ne doivent être appuyer au même moment sur des difficultées Insane ou en bas.**
+- **Les difficultées utilisant le [playstyle N+1](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) doivent activées l'option `Use special style (N+1 style) for mania`.**
 
-## Song interpretation
+## Interprétation de la musique
 
-*Note: This section is based on subjective mapping views, not the ranking criteria.*
+*Note: Cette section est basée sur les vus de 'mapping' subjectives, et non critère de classement.*
 
-**Every element of a map should represent the song.**
+**Chaque élement d'une 'beatmap' devrait représenter la musique.**
 
-This principle sounds simple, but it might be the most controversial part of ranking a map! There's no *correct way* to interpret a song, so each individual's interpretation varies, and the [Beatmap Approval Team](https://osu.titanic.sh/g/3) determine if your interpretation is valid for Ranked status. Every BAT member may have a different opinion on this subject, but it's a good idea to follow older mapping styles.
+Ce principe à l'air simple, mais peut être la partie la plus controversé de classé une 'beatmap'! Il n'y a aucune *façon correcte* d'interprété une musique, donc chaque interprétation individuel varie, et la [Beatmap Approval Team](https://osu.titanic.sh/g/3) determine si votre interpretation est valide pour être classé. Chaque membre du BAT peuvent avoir une opinion différente sur ce sujet, mais c'est une bonne idée de suivre les traces de style de 'mapping' plus vieux.
 
-These pointers may also lead you in the right direction:
+Ces indications peuvent également vous mettre sur la bonne direction:
 
-- **Correlate map and song intensity.**
-  - **Rhythm:** Intense parts have more rhythm density than calm parts.
-  - **Spacing:** Intense parts have higher jump distance than calm parts.
-  - **Slider velocity:** Intense parts have faster sliders than calm parts.
+- **Correlez l'intensitez de la 'beatmap' et la musique.**
+  - **Rhythme:** Les partie intense devrait être plus rythmiquement dense que les partie calme.
+  - **Espacement:** Les parties intense devrait avoir une distance de 'jump' plus haute que les parties calme.
+  - **Vélocité des 'sliders':** Les parties intense devrait avoir de 'sliders' plus rapide que dans les parties calme.
   - **Design:** Intense parts have more complex object composition than calm parts.
-  - When the song gradually increases or decreases intensity, show a gradual progression of any elements above.
-- **Show song variation through contrast.**
-  - Establish some core ideas for your mapping choices.
-  - When the song enters a new section, shift those mapping ideas according to how different the song feels.
-  - If a specific sound only occurs once or twice in a song, make it stand out by clearly deviating from your usual mapping choices.
-- **Be consistent (within reason).**
-  - When a song repeats itself, it makes sense to repeat your map too.
-  - Copying and pasting part of your map can be pretty boring though, so when a song repeats, vary your map in ways that don't drastically change how you previously interpreted the song.
-- **Ask how your objects fit into the *"every element of a map should represent the song"* principle.**
-  - **Example 1:** "How does this object represent the sound it aligns with?"
-  - **Example 2:** "How does this section of objects follow the general mood of this section of the song?"
-- **Consider how other people will interpret your map.** If your way of interpreting the song isn't clear, it'll feel like your map doesn't follow the song!
+  - **Design:** Les parties intense devrait avoir des compositions d'objet plus complexe que les parties calme. (unsure)
+  - Quand la musique monte ou descend graduellement en intensité, montrez une progression graduelle de n'importe quelle des éléments ci-dessus.
+- **Montrez la variation musical à travers le contrast.**
+  - Etablissez des d'idées principal pour vos choix de 'mapping'.
+  - Quand la musique entre dans une nouvelle section, changez ces idées de 'mapping' en accord avec le ressenti différent de la musique.
+  - Si un son spécifique se produit une ou deux fois dans une musique, faite le se démarquer en déviant clairement de vos chois de 'mapping' habituel.
+- **Soyez consistent (dans la limite du raisonable).**
+  - Quand une musique se répète, cela fait du sens de répeter votre 'beatmap' aussi.
+  - Cependant copier et coller des parties de votre 'beatmap' peut être assez ennuyant, donc quand une musique se répète, variés votre 'beatmap' de façon à ce que cela ne change pas drastiquement de comment vous aviez interpréter la musique avant.
+- **Demandez comment vos objets rentre dans le principe de *"chaque élément d'une 'beatmap' devrait représenter la musique"*.**
+  - **Exemple 1:** "Comment est-ce que cet objet représente le song avec lequel il est aligné?"
+  - **Exemple 2:** "Comment cette section d'objets suit l'humeur general se cette section de la musique?"
+- **Considérez comment les autres personnes vont interpréter votre 'beatmap'.** Si votre manière d'interpréter la musique n'est pas clair, cela donnera l'impression que votre 'beatmap' ne suit pas la musique!
