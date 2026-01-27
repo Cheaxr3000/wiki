@@ -4,31 +4,31 @@
 
 ### Écrie par Digitalfear117
 
-Salit, je suis [Digitalfear117](https://osu.titanic.sh/u/809) et j'adore les vieux éditeurs. J'espère que les utilisateurs de titanic seront capable de mapper et classer des musiques utilisant n'importe quelle version disponible de osu! Ce guide décrit les fonctionalités dans l'ordre chronologique qu'elles ont été ajoutées. Il explique aussi comment le format de fichier. osu fonctionne, et ce que les valeurs font. Avec un peu de chance, par la fin de cette page vous saurez comment faire marcher des 'beatmap' moderne dans des vieux clients, et choisir le meilleur client pour faire vos 'beatmaps'!
+Salut, je suis [Digitalfear117](https://osu.titanic.sh/u/809) et j'adore les vieux éditeurs. J'espère que les utilisateurs de titanic seront capable de mapper et classer des musiques utilisant n'importe quelle version disponible de osu! Ce guide décrit les fonctionalités dans l'ordre chronologique qu'elles ont été ajoutées. Il explique aussi comment le format de fichier. osu fonctionne, et ce que les valeurs font. Avec un peu de chance, par la fin de cette page vous saurez comment faire marcher des 'beatmap' moderne dans des vieux clients, et choisir le meilleur client pour faire vos 'beatmaps'!
 
-I have omitted some versions from this list if I could not find any significant changes to the editor within them. If I have missed something feel free to reach out to me, or contribute to this so this page!
+J'ai omis certaine versions de cette liste ca je ne trouvait pas qu'ils avaient des changements assez signifiant avec eux. Si j'ai oublié quelque chose, n'hésitez pas a me contacter, ou contribuer a cette page!
 
-### Uploading maps on titanic
+### Téleverser des maps sur titanic
 
-During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS does support all clients, though it may be a little unstable on older version of osu!. If you encounter any issues, I recommend using my b20130303 modded client, as it allows you to bypass updating the map before upload. This is particularly useful if you want to preserve compatibility with the original client you used for mapping!
+Pendant le developement de osu!, téleverser des maps à travers le ”Beatmap Submission System” (BSS) ont changé drastiquement. L'implementation du BSS sur titanic supporte tout les clients, même si il peut être un peu instable sur les plus vielle versions de osu!. Si vous rencontrez des problèmes, je reommanedrais d'utilisé mon client moddé b20130303, comme il vous autorises a outre-passer de mettre à jour la 'beatmap' avant le téleversement. Cela est particulièrement utile si vous voulez préservez la compabilité avec le client original que vous avez utiliser pour le 'mapping'!
 
-# Pre-release osu! versions (v1)
+# Versions de prélancement de osu! (v1)
 
-Some versions of osu! exist that predate the games official public beta. A lot of the earliest maps in the game were made during this pre-release era and were updated by peppy to .osu v3 and ranked.
+Quelque versions de osu! existes qui prédate la beta publique officiel du jeu. Beacoupp des premières 'beatmaps' dans le jeu ont été fait pendant cette era de pré-lancement et ont été mis-à-jour par peppy aux .osu v3 puis classer.
 
 ## 07-27-2007
 
-This version produces some of the most barebone osu maps. This client lacks the ability to do anything outside of circles, even in the .osu the only information is the hitobjects. 
+Cette version produit quelque une des 'beatmaps' les plus minimaliste de osu. Ce client manque la possibilité de faire quoique ce soit en dehors des cercles, même dans le .osu lla seul information est le 'hitobjects'
 
-Here is an example of a circle in this version:
+Voici un exemple d'un cercle dans ette version:
 
 `96,64,8118,5,4`
 
 ## 07-29-2007
 
-The top of .osu files from this client now stores the TEMPO and the OFFSET. Below this is hit object data. This version is very similar to the previous one, however sliders now (mostly) work! Something important to note is that slider heads and bodies must start at the exact position, unlike in later editor revisions. The only slider curve type that exists in this version is catmull. Since there are no other slider curve types the slider format is simplified.
+Le haut du fichier .osu de ce client enregistre maintenant le TEMPO et l'OFFSET. En dessous de cela est la donné du 'hit object'. Cette versio est très similaire à l'ancienne, mais maintenant les 'sliders' marche (généralement)! Quelque chose d'important à noter est que les têtes et corps de 'slider' doivent commencer à la même position, contrairement aux versions précedente de l'editeur. Le seul type de slider qui existe dans cette version est le type 'catmull'. Vu qu'il n'y a aucun autre type de courbe de 'slider', le. format de 'slider' est simplifier.
 
-Here is an example of a slider in this version:
+Voici un exemple d'ub 'slider' dans cette version:
 
 `224,80,17118,2,0,224:80|336:32|360:153,1`
 
