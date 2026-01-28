@@ -55,11 +55,11 @@ Cette version du jeu est significativement plus utilisable que les autres versio
 
 Cette version à bien plus des informations néccessaire pour avoir une map lisible dans le osu! moderne. Les en-têtes pour séparé les données ont été implémenter. SPEEDX et CUSTOMX ont été renommé, le hachage audio est maintenant inclu dnas le fichier .osu, et vous pouvez  maintenant placé des 'sliders' 'beizer' en addition des 'sliders' lineéaire. Vous voyez comment il n'y a aucun moyen de changé les paramètres de difficultés. Et aussi comment il n'y a aucun moyen de nommé une difficulté pour l'instant.
 
-I recommend you continue to use the same folder name and file name structure as the previous version though. This explains why some of the earliest beatmaps are all just "default" settings, users didn't have choice yet. 
+Par contre je recommenderais que vous continuez d'utiliser le même nom de dossier et de fichier que dans les anciennes versions. Cela explique pourqoi certaine des premières 'beatmaps' sont tous aux paramètres ”par défault”, les utilisateurs n'avait pas encore le choix.
 
-There are no ranked .osu v2's, v3's are the first official version.
+Il n'y a aucun .osu v2 de classé, les v3 sont les premières versions officiel.
 
-Here is the .osu format for this version:
+Voici le format .osu de cette version:
 
 ```
 osu file format v2
@@ -85,11 +85,12 @@ Creator:Digitalfear117
 0,192,1426,2,0
 ```
 
-# b53 to b144 (v3)
+# b53 à b144 (v3)
 
 Here is the first public release of osu! These are the oldest maps that are fully compatible in modern osu!, so if you want to map in pre-historic versions of the game, this is the most featured, and would require the least amount of additional effort to get working on your part.
+Voici la première sortie publique de osu! Ceux ce sont les 'beatmaps' les plus vielles qui sont entièrement compatible dans le osu! moderne, donc si vous voulez mapper dans une version pré-historique du jeu, elle la plus mise en avant et vous requierais le moins d'effort possible pour la fair marcher de votre côter. (unsure)
 
-Notable changes to .osu v3 include allowing for user adjustable Difficulty Settings. Note that none of these can be decimals, and that OD and AR are combined:
+Des changements notable dans le .osu v3 inclu l'autorisation d'ajuster les paramètres de difficulté. Notez que aucun de ces paramètres ne peuvent être mis en nombre décimales, et que l'OD et l'AR sont combinés: 
 
 ```
 [Difficulty]
@@ -100,14 +101,14 @@ SliderMultiplier: 1.4
 SliderTickRate: 2
 ```
 
-You can now choose a sampleset for hitsounds in General:
+Vous pouvez maintenant choisisr un échantillion pour vos hitsounds en dans ”General”:
 
 ```
 [General]
 SampleSet: None
 ```
 
-Images or video can now be added, and they will be at the start of the Events tag:
+Les images ou vidéos peuvent maintenant être ajouté, et elles commenceronts au début du tag d'”Events”:
 
 ```
 [Events]
@@ -115,21 +116,21 @@ Images or video can now be added, and they will be at the start of the Events ta
 2,34350,47100 // Break
 ```
 
-## b70 linear sliders
-In between b53 and b70 linear sliders got added! You can now produce sliders that have the modern day effect of red lines. However in this version, you must choose if you want the entire slider to be linear, entire slider to be bezier, or entire slider to be catmull.
+## b70 'sliders' linéaires
+Entre b53 et B70, les 'sliders' linéaires ont été ajouté! Vous pouvez maintenant faire des 'sliders' qui ont un effet moderne des ligne rouges. En revanche, dans cette version, vous devez choisir si vous voulez l'entiereté du 'slider' d'être linéaire, ou entièrement style 'beizer', ou entièrement style 'catmull'.
 
-# b162 to b222 (v4)
+# b162 à b222 (v4)
 
-This update to the .osu format offers some new features which are quite useful.
+Cette mis-à-jour du format de fichier .osu offres de nouvelles fonctionnalités qui sont assez utile.
 
-You can now set a audio lead in time, and enable or disable the countdown feature in General:
+Vous pouvez maintenant mettre un temps de 'lead-in' à l'audio, et activez ou désactivez la fonctionnalité de déconte dans ”General”:
 
 ```
 AudioLeadIn: 0
 Countdown: 1
 ```
 
-Timing points have 3 new additions that can be added:
+Les points de timing ont 3 nouvelles additions qui peuvent être ajouté:
 
 ```
 [TimingPoints]
