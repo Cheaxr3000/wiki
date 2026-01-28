@@ -34,11 +34,11 @@ Voici un exemple d'ub 'slider' dans cette version:
 
 ## 08-26-2007
 
-If you want to create new maps in this version, you must create a folder in the songs directory, and within that folder you must have identically named mp3 files and .osu. Create these before you enter the game. So you could create a folder called `Map` and the files within it should be `Map.mp3` and `Map.osu` 
+Si vous voulez créer des nouvelles 'beatmaps' dans cette version, vous devez créer un fichier dans le réportoire "Songs", et à l'intérieur de ce fichier, vous devez avoirun fichier mp3 et .osu nommé identiquement. Créez ceux la avant d'ouvrir le jeu. Donc vous pouvez crédd un fichier appeler ˋMapˋ, et les fichier à l'interieure devront être ˋMap.mp3ˋ et ˋMap.osu
 
-This version has 2 new tags in the .osu `SPEEDX` and `CUSTOMX`. SPEEDX is for slider velocity, , CUSTOMX is for slider tick rate, but these don't seem to work.
+Cette version a 2 nouveaux tags dans le .osu, ˋSPEEDXˋ et ˋCUSTOMXˋ. SPEEDX est pour la vélocité des 'sliders'. CUSTOMX est pour le taux de tiques, mais ils n'ont pas l'air de fonctionné.
 
-Here is an example of the header of the .osu file from this version:
+Voici un exemple d'en-tête du fichier .osu de cette version:
 
 ```
 TEMPO 500
@@ -47,13 +47,13 @@ SPEEDX 1
 CUSTOMX 1
 ```
 
-# Pre-release osu! versions (v2)
+# Versions de pré-lancement de osu! (v2)
 
-This version of the game is significantly more usable then the other pre-release versions. As of right now we only have one client that produces .osu v2's.
+Cette version du jeu est significativement plus utilisable que les autres versions de pré-lancement. Au jourd d'aujourd'hui nous avons qu'un seul client qui créer des .osu v2.
 
 ## 09-08-2007
 
-This version has far more of the information needed to be a readable map in modern osu!. Headers for splitting up the data have been implemented. SPEEDX and CUSTOMX have been renamed, the audio hash is now included within the .osu file, and you can now place bezier sliders in addition to linear sliders. Notice how there is no way to change difficulty settings. Also there is no way to name a difficulty yet. 
+Cette version à bien plus des informations néccessaire pour avoir une map lisible dans le osu! moderne. Les en-têtes pour séparé les données ont été implémenter. SPEEDX et CUSTOMX ont été renommé, le hachage audio est maintenant inclu dnas le fichier .osu, et vous pouvez  maintenant placé des 'sliders' 'beizer' en addition des 'sliders' lineéaire. Vous voyez comment il n'y a aucun moyen de changé les paramètres de difficultés. Et aussi comment il n'y a aucun moyen de nommé une difficulté pour l'instant.
 
 I recommend you continue to use the same folder name and file name structure as the previous version though. This explains why some of the earliest beatmaps are all just "default" settings, users didn't have choice yet. 
 
