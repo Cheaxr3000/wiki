@@ -137,13 +137,14 @@ Les points de timing ont 3 nouvelles additions qui peuvent être ajouté:
 118,500.004999999999,4,0,1
 ``` 
 
- - 4 refers to timing signature. Nearly all maps will be 4/4
- - 0 here refers to the sampleset. 0 is legacy and will default to Normal. 1 is the correct way to set the Normal sampleset, 2 is for Soft. Remember that the Drum sampleset does not exist yet
- - 1 refers to whether or not custom sampleset has been checked. In this version of the game there can only be 1 custom sampleset.
+ - 4 réfère aux signatures de temps. Presque toute les 'beatmaps' seront en 4/4
+ - Ici 0 réfères aux échantillons. 0 est legacy et se met par défault au ”Normal”. 1 est la bonne manière de mettre l'échantillon ”Normal”, 2 est pour ”Soft”. Rappelez vous que l'échantillon ”Drum” n'existe pas encore
+ - 1 réfère à si vous avez cochez un échantillon customisé ou non. Dans cette versio du jeu, il peux y avoir 1 seul échantillon customisé.
 
 ## b196 storyboarding
 
 This is the earliest version of osu! that supports the storyboarding scripting language. The design tab won't be done for many more versions, but if you don't mind doing it in a text editor, most of the simple functions work in this version.
+Ceci est l'une des premières version de osu! qui supporte le langage de script de storyboard. L'onglet ”Design”...
 
 ## b222 hitsound volume adjustment
 
