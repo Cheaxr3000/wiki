@@ -143,24 +143,23 @@ Les points de timing ont 3 nouvelles additions qui peuvent être ajouté:
 
 ## b196 storyboarding
 
-This is the earliest version of osu! that supports the storyboarding scripting language. The design tab won't be done for many more versions, but if you don't mind doing it in a text editor, most of the simple functions work in this version.
-Ceci est l'une des premières version de osu! qui supporte le langage de script de storyboard. L'onglet ”Design”...
+Ceci est l'une des premières version de osu! qui supporte le langage de script de storyboard. L'onglet ”Design” ne serait pas fait pendant plusieurs versions, mais si ça ne vous embête pas de le faire dans un éditeur de texte, la pluparts des fonctions simple marche dans cette version.
 
-## b222 hitsound volume adjustment
+## b222 ajustement de volume d'hitsound
 
-This update let's you customize the hitsound volume of any given timing point. That means that the hitsound volume tag in Timing Points can be between 0 and 100. The modern game only let's you go down to 5%, and will force any values lower back to 5% when played.
+Cette mis-à-jour vous laissez customisez les volumes d'hitsounds ne n'importe qulle point de timing. Cela veut dire que les tag de volume d'hitsound dans "Timing Points" peuvent être entre 0 et 100. Seul le jeu moderne vous laisse descendre a 5%, et forcera n'importe quelle valeur en dessous a 5% quand jouer.
 
 ![Audio section of the Timing Setup panel in b222](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b222_timing_setup_audio.png)
 
-.osu example for hitsound volume:
+Example de .osu pour les volume d'hitsound:
 
 ```
 [TimingPoints]
 118,500.004999999999,4,0,1,42
 ```
-- 42 refers to the hitsound volume %
+- 42 réfere au volume en % de l'hitsound
 
-# b282 to b904 (v5)
+# b282 à b904 (v5)
 
 The switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in between b222 and b282. .osu v5 evolved a significant amount during it's time, so much so, that .osu v5's made in the last version that created this file format won't even work correctly in the first version that made this format!
 
