@@ -162,14 +162,15 @@ Example de .osu pour les volume d'hitsound:
 # b282 à b904 (v5)
 
 The switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in between b222 and b282. .osu v5 evolved a significant amount during it's time, so much so, that .osu v5's made in the last version that created this file format won't even work correctly in the first version that made this format!
+Le changement au .osu v5 a l'air d'avoir pris place le 03/24/2008, mais nous avons aucune versions entre b222 et b282. Le .osu v5 a significament évoluer pendant son temp, tellement que, le .osu v5 a été fait dans le dernière versions qui créer ce genre de fichier ne marcheras pas correctement dans le première version qui a fait ce format! (unsure)
 
-The first versions that use .osu v5 are not majorly different from what came before, it seems that the major change is that 25ms of offset was removed from new maps going forward due to a change peppy made on March 23rd of 2008. This from his official changelog:
+Les premières versions qui utilisent le .osu V5 ne sont pas maoritairement différent de ce qui était arriver avant, on aurait dit que le changement majeur est que les 25ms d'offset ont été enlever des nouvelles maps en allant de l'avant du a un changement que peppy a fait le 23 Mars 2008. Ceci est de son journal de modification officiel:
 
-`Realised my silence finding function WASN'T RUNNING! Fixed, and adjusted previous beatmaps to earn themselves a free 25ms offset.`
+`Realised my silence finding function WASN'T RUNNING! Fixed, and adjusted previous beatmaps to earn themselves a free 25ms offset.` (Traduction: `J'ai réaliser que ma fonction de recherche de silence NE TOURNAIT PAS! Réparer, et ajuster au anciennes beatmaps pour qu'elles gagnent 25ms d'offset gratuit.`)
 
-As of me writing this, this is the oldest possible version that works with osu!titanic, however only testers are allowed to use it due to bugs that exist with the client. I think this is a shame but maybe one day this can be changed.
+Au moment on j'écris ceci, ceci est la version la plus vielle possible qui marche sur osu!titanic, en revnache, seul les testeurs sont autorisé à l'utilisé du au bugs qui existe dans le client. Je pense que c'est dommage, mais peut être qu'un jour cela peut être changer.
 
-## b294 remove redundant slider anchor on slider head
+## b294 enlever les encres de 'slider' redondant sur les têtes de 'slider'
 
 Up until this point, the first point of all slider bodies copied the coordinate of the slider head, creating a hardcoded link between the start of the slider body and the head. Starting with this version however, this linking is done automatically by the game, and no longer written explicitely to the .osu file. This means that all sliders made on this version of osu! and later will be broken on older clients, so beware!
 
