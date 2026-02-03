@@ -212,13 +212,13 @@ Dans cettte version, vous pouvez facilement essayez les différents types de cou
 
 ![Example of the on screen popup for swapping between slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_slider_curve_popup.gif)
 
-This allows you to experiment more easily with different slider curves on a single object if you want to try some other way to emphasize a sound without having to go up to *Options > Slider Curve Type* every time you want to change types.
+Cela vous autorisent a expérimenté plus simplement avec différents types de courbure de slider sut un seul objet si vous voulez essayez d'autre moyen de souligner un sond sans avoit a aller dans *Option > Slider Curve Type* chaque fois que voulez changer de type.
 
-## b370 taiko specifics
+## b370 Spécificité au Taiko
 
-This is the first build we have available that can make taiko maps! You can enable this by going to *Song Setup (F4)  -> Advanced* and check off **Made for Taiko Mod**
+Ceci est la première version disponible qui peut faire des 'beatmaps' en taiko! Vous pouvez avtivre cela en allant dans *Song Setup (F4) -> Advanced* et cochez la case **Made for Taiko Mod** 
 
-You can tell if a map was made for osu! or taiko by looking at the new flag under the General section of the .osu
+Vous pouvez voir si une map est faite pour osu! ou taiko en regardant le nouveau signale sous la section ”General” du .osu
 
 ```
 [General]
@@ -226,23 +226,24 @@ Mode: 0
 ```
 -  0 osu! standard
 - 1 taiko
-- 2 catch the beat (won't be added till b504)
-- 3 mania (won't be added till around osu! 2012 b20121030)
+- 2 catch the beat (ne sera pas rajouté jusqu'a b504)
+- 3 mania (ne sera pas rajouté jusqu'au alentours de osy! 2012 b20121030)
 
-## b370 editor selection links can be clicked in chat
+## b370 lien de selections dans l'éditeur peuvent être appuyez en chat.
 
-An absolute must have feature for those who mod over IRC
+Une fonctionalité incontrournable pour ceux qui mod par le IRC
 
 ![An example of clickable editor selection links over in-game chat](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_editor_selection_links.png)
-## b370 seek via time display
+## b370 chercher par affichage du temp
 
 ![GoTo Time popup for jumping to a specific time stamp](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_goto_time_popup.png)
 
 Clicking on the time stamp at the bottom left allows you to go to any time in the map easily.
+Appuyez sur l'horodatage en bas a gauche vous autorise a aller à n'importe quelle temps dans la map facilement. (unsure)
 
 ## b394a tags
 
-In this version you can now add tags directly to the .osu within Song Setup. This will show up under the Metadata section:
+Dans cette version, vous pouvez maintenant rajoutez des tags directement au .osu dans le ”Song Setup”. Ceci apparaitra sous la section ”Metadadta”: 
 
 ```
 [Metadata]
