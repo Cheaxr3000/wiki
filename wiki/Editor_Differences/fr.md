@@ -172,16 +172,16 @@ Au moment on j'écris ceci, ceci est la version la plus vielle possible qui marc
 
 ## b294 enlever les encres de 'slider' redondant sur les têtes de 'slider'
 
-Up until this point, the first point of all slider bodies copied the coordinate of the slider head, creating a hardcoded link between the start of the slider body and the head. Starting with this version however, this linking is done automatically by the game, and no longer written explicitely to the .osu file. This means that all sliders made on this version of osu! and later will be broken on older clients, so beware!
+Jusqu'a ce moment, le premier point de tout les corps de 'slider' copier les coordonées de la tête du 'slider' , créant un lien codé en dur du début du corps de 'slider' et la tête. À partir de cette versions par contre, ce lien est fait automatiquement par le jeu, et plus écrie éxplicitement dans le fichier .osu. Cela veut dire que tout les 'sliders' fait sur cette version de osu! et après seront cassée sur les vieux clients, donc faite attention!
 
 |       |.osu Slider Definition                                        |
 |-------|--------------------------------------------------------------|
 |Before:|<code>224,80,17142,2,0,B\|224:80\|336:32\|360:153,1,140</code>|
 |After: |<code>224,80,17142,2,0,B\|336:32\|360:153,1,140</code>        |
 
-## b337 red anchors
+## b337 encres rouge
 
-Starting with this version you can now create red anchors on all 3 available slider types! 
+À partir de cette version, vous pouvez maintenant créer des encres rouges sur les 3 types de 'slider' disponible!
 
 ![Red anchor examples on all 3 slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b337_red_anchors.png)
 
