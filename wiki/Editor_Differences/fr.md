@@ -250,13 +250,13 @@ Dans cette version, vous pouvez maintenant rajoutez des tags directement au .osu
 Tags:Digitalfear117
 ```
 
-## b394a red lines and breaks on scrollbar
+## b394a Lignes rouge et pauses sur la bar de défilement
 
-With this version you can easily see red lines and breaks on the scroll bar. These did show up on the timeline at the top where the notes are, but not on the scrollbar till this version
+Avec cette version, vous pouvez facielemnt voir les lignes rouges et les pauses sur la bar de défilement. Celles-ci n'apparaissait pas sur la timiline en haut ou les notes sont, mais pas sur la bar de défillement jsusqu'a cette version
 
 ![Example of a red line and break on the timeline](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b394a_red_lines_breaks.png)
 
-This makes seeing aspects of the map a bit easier, as you can see all the maps sections more easily at the bottom
+Ceci fait en sorte de voir les aspects de la map un peu pls facilement, comme cela vous pouvez voir les sections de la 'beatmaps' en bas
 
 ## b420 inherited lines
 
