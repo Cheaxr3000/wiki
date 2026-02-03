@@ -174,37 +174,39 @@ Au moment on j'écris ceci, ceci est la version la plus vielle possible qui marc
 
 Jusqu'a ce moment, le premier point de tout les corps de 'slider' copier les coordonées de la tête du 'slider' , créant un lien codé en dur du début du corps de 'slider' et la tête. À partir de cette versions par contre, ce lien est fait automatiquement par le jeu, et plus écrie éxplicitement dans le fichier .osu. Cela veut dire que tout les 'sliders' fait sur cette version de osu! et après seront cassée sur les vieux clients, donc faite attention!
 
-|       |.osu Slider Definition                                        |
+|       |.osu Définition de 'Slider'                                   |
 |-------|--------------------------------------------------------------|
 |Before:|<code>224,80,17142,2,0,B\|224:80\|336:32\|360:153,1,140</code>|
 |After: |<code>224,80,17142,2,0,B\|336:32\|360:153,1,140</code>        |
 
-## b337 encres rouge
+## b337 ancres rouge
 
-À partir de cette version, vous pouvez maintenant créer des encres rouges sur les 3 types de 'slider' disponible!
+À partir de cette version, vous pouvez maintenant créer des ancres rouges sur les 3 types de 'slider' disponible!
 
 ![Red anchor examples on all 3 slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b337_red_anchors.png)
 
 Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider to have a straight turn, but you want another part to have a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
+Ajouter une ancre rouge a slider 'Bezier' vous autorise a avoir une courbe serré, cela peut être utilse dans les situations ou vous voulez qu'une partie du 'slider' ai une courbe droite, mais que vous voulez une autre partie du slider d'avoir une courbe courbé. Les sliders ”Catmull” font une ampoule bouclé sur les ancres rouges, le joueur est forcé de tenir sur l'ancre rouge. Cela peut être utile pour des 'beatmaps' un plus centré sur de la 'gimmick', ou pour vraiment souligner un son sur un slider. En consequence de l'ampoule en revanche, le 'slider' apparaîtra plus petit que les autres types de courbures quand les slider sont identiques. Ajouter une ancre rouge a un slider 'Linéaire' ne fera pas de changement signifiant à celui-ci. (unsure)
 
-Red anchors work in the .osu by copying the same slider anchor point twice. If the game sees two identical slider points it will treat it as a red anchor.
+Les ancres rouges marchent dans le .osu en copiant la même ancre de 'slider' deux fois. Si le jeu voit deux points de 'slider' identique il le traiterai comme une ancre rouge.
 
-|             |.osu Slider Red Anchor vs White Anchor                       |
+|             |.osu 'Slider' Ancre Rouge vs Ancre Blanche                   |
 |-------------|-------------------------------------------------------------|
 |Red Anchor:  |<code>32,32,85207,6,0,L\|128:32\|128:32\|128:160,1,210</code>|
 |White Anchor:|<code>32,32,85207,6,0,L\|128:32\|128:160,1,210</code>        |
 
-## b337 toggled options are remembered during session
+## b337 les options activés sont enregistrés pendant les sessions
 
-If you press on the Distance Snap, or Grid Snap toggle buttons, the client will now remember your selection till you close the game.
+Si vous appuyez sur le bouton du ”Distance Snap”, ou du ”Grid SNap”, le client enregistrera maintenant votre selection jusqu'a ce que vous fermez le jeu.
 
-## b370 change slider curve type on the fly
+## b370 changer les types de courbature de 'slider' rapidement
 
 In this build you can easily try out the different slider curve types by pressing **A** **S** or **D**.
+Dans cettte version, vous pouvez facilement essayez les différents types de courbure de 'slider' en appuyant sur **A** **S** ou **D**.
 
-|Key|Action |
+|Touche|Action |
 |---|-------|
-|A  |Linear |
+|A  |Linéare |
 |S  |Catmull|
 |D  |Bezier |
 
