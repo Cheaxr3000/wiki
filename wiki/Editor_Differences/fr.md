@@ -276,32 +276,32 @@ Vous pouvez voir si un point de timing a héritée dans le .osu si le dernier si
 The last flag being 0 means inherited, and 1 means non inherited in this version, and for a decent amount of versions after this.
 Le dernier signale étant 0 veut dire que cette ligne a héritée, et 1 veut dire qu'elle n'a pas héritéée dans cette version, et pour une bonne poignée de versions après celle-la. (unsure, that whole version is unsure)
 
-## b452 clap hitsound
+## b452 hitsound de "clap"
 
-This is the very first version that you can use the clap hitsound! This version has a clap for both available samplesets (Normal and Soft).
+Ceci est la toute première version ou vous pouvez utilisez les hitsounds "clap"! Cette version a un "clap" disponible dans les deux versions d'échantillons ("Normal" et "Soft").
 
 ![A screenshot of the clap hitsound button from b452](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b452_clap_hitsound_button.png)
 
-You can see what hitsound a circle has applied to it by looking at the last flag in the .osu:
+Vous pouvez voir quelle hitsoud a été appliquer à un cercle en regardant le dernier signale dans le .osu:
 
 `96,128,45555,1,2` 
 
-- The value of 2 at the end is the hitsound
+- La valeur de 2 à la fin est l'hitsound
 
-|Flag|Hitsound |
+|Signale|Hitsound |
 |----|---------|
-|0   |None     |
+|0   |Aucun    |
 |2   |Whistle  |
 |4   |Finish   |
 |8   |Clap     |
 
-These numbers are combined when you add multiple to one object. So for example 6 would be Whistle and Finish.
+Ces nombres sont combinés quand vous ajoutez plusieurs hitsound a un objet. Par exemple, 6 serait "Whistle" et "Finish".
 
-This is also true of the sliders, if the entire sliderbody has a hitsound applied to it you will see it on the last digit before the slider curve type.
+Ceci est aussi vrai pour les 'sliders', si l'entiereté du corp du 'slider' a un hitsound d'ajouter, vous le verrez sur le dernier chiffre avanr le type de courbure de 'slider'.
 
 `96,128,52155,2,6,B|96:256,1,100`
 
-- Here it is 6, so that means Whistle + Finish.
+- Ici il est marqué 6, donc cela veut dire que c'est "Whistle" + "Finish".
 
 ## b452 slider head, tail, and reverse arrow hitsounding
 
