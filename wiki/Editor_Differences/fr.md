@@ -258,13 +258,14 @@ Avec cette version, vous pouvez facielemnt voir les lignes rouges et les pauses 
 
 Ceci fait en sorte de voir les aspects de la map un peu pls facilement, comme cela vous pouvez voir les sections de la 'beatmaps' en bas
 
-## b420 inherited lines
+## b420 lignes héritées
 
-Starting with this version new timing points can inherit the bpm of the previous one. This is what will eventually turn into green lines, but for now they are still red.
+À partir de cette version, les nouveau points de timing peuvent héritée du BPM du point de timing antérieur. Ceci est ce qui va se transformer en lignes vertes, mais pour l'instant, elles sont toujours rouges.
 
 ![b420 Timing Setup popup, showing off an interited timing point](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b420_timing_setup.png)
 
 You can tell if a timing point is inherited in the .osu based on if the last flag in the timing point is a 1 or a 0.
+Vous pouvez voir si un point de timing a héritée dans le .osu si le dernier signale du point de timing est un 1 ou un 0. (unsure)
 
 ```
 [TimingPoints]
@@ -273,6 +274,7 @@ You can tell if a timing point is inherited in the .osu based on if the last fla
 ```
 
 The last flag being 0 means inherited, and 1 means non inherited in this version, and for a decent amount of versions after this.
+Le dernier signale étant 0 veut dire que cette ligne a héritée, et 1 veut dire qu'elle n'a pas héritéée dans cette version, et pour une bonne poignée de versions après celle-la. (unsure, that whole version is unsure)
 
 ## b452 clap hitsound
 
