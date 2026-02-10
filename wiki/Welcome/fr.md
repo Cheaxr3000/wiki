@@ -1,6 +1,6 @@
 # Bienvenue
 
-Tout d'abord, nous aimerions vous donner un accueil chaleureux et un câlin pour avoir rejoint notre communauté. Laissez-nous vous expliquez quelques choses avant que vous ne commencez votre journée.
+Tout d'abord, nous aimerions vous donner un accueil chaleureux et un câlin pour avoir rejoint notre communauté. Laissez-nous vous expliquez quelques petites choses avant que vous ne commencez votre journée.
 
 [TOC]
 
