@@ -20,7 +20,7 @@ Qu'est-ce qu'une 'beatmap' demandez-vous? Comme n'importe quel autre jeu, il y a
 
 Si il y a une version 'beatmap' approuvée de la musique que vous cherchez, vous devriez la trouver dans la page des résultats. Mais, ne soyez pas contrarié si votre musique n'est pas ici! Il y a des centaines de 'beatmaps' qui sont soumises et revues, votre musique en fait peut-être partie! S'il vous-plaît, ne publiez pas des requêtes pour des 'beatmaps' que vous aimeriez, la plupart des mappeurs 'map' les musiques qu**'ils** aiment, pas ce que vous aimez, mais, cela pourrait être un indice pour commencer votre propre carrière dans le 'mapping'!
 
-Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Download Beatmap" géant (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de compte)
+Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton géant "Download Beatmap" (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de compte)
 
 ![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
 
