@@ -12,7 +12,7 @@ Si vous êtes entièrement nouveau à osu!, il est recommandé que vous jouiez l
 
 ### Étape 1 - Trouver la musique!
 
-Qu'est-ce qu'une 'beatmap' demandez-vous? Comme n'importe quelle autre jeux, il y a des niveaux, ou quelque fois, des maps. Justement, nous avons des ”Beatmaps” dans osu!, qui sont exactement ce à quoi vous pensez, ce sont des cartes (maps) avec du rythme (beat). Trouvez des 'beatmaps' pour des musiques est simple! Vous pouvez facilement trouver toutes les 'beatmaps' soumises [ici](https://osu.titanic.sh/beatmapsets). Vous pouvez trouver toutes les choses en rapport avec votre recherche: nom de la musique, nom de l'artiste, nom de l'album, et même le genre! Pour cette exemple, nous allons essayer de trouver ”Coldplay - Don't Let It Break Your Heart”
+Qu'est-ce qu'une 'beatmap' demandez-vous? Comme n'importe quel autre jeu, il y a des niveaux, ou quelque fois, des maps. Justement, nous avons des ”Beatmaps” dans osu!, qui sont exactement ce à quoi vous pensez, ce sont des cartes (maps) avec du rythme (beat). Trouvez des 'beatmaps' pour des musiques est simple! Vous pouvez facilement trouver toutes les 'beatmaps' soumises [ici](https://osu.titanic.sh/beatmapsets). Vous pouvez trouver toutes les choses en rapport avec votre recherche: nom de la musique, nom de l'artiste, nom de l'album, et même le genre! Pour cette exemple, nous allons essayer de trouver ”Coldplay - Don't Let It Break Your Heart”
 
 ![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
 
