@@ -58,7 +58,7 @@ Ceci à peut-être l'air d'un simple jeu ou il faut appuyer sur des cercles et t
 
 ### Niveaux
 
-Le niveau des joueurs représente seulement le nombre de score (classée ou non) que le joueur à obtenu en finissant la 'beatmap' ou pas. En somme, l'expérience relative du joueur en jeu. Mais, pas comme les autres jeux (Lisez: jeux MMO) auxquels vous avez peut-être joué, osu! ne donne **AUCUN** avantages à n'importe quelle joueur, point barre. Un joueur de niveau 10 naturellement bon au jeu, peut potentiellement battre un joueur de niveau 100 (cela veut dire que tout ce que disent les niveaux est que le joueur de niveau 100 a passé plus de temps à jouer des 'beatmaps' en ligne). Aussi, souvenez-vous que vous obtenez un score plus grand quand votre combo est plus haut (toucher des notes sans en louper une d'affilée)
+Le niveau des joueurs représente seulement le nombre de score (classé ou non) que le joueur à obtenu en finissant la 'beatmap' ou pas. En somme, l'expérience relative du joueur en jeu. Mais, pas comme les autres jeux (Lisez: jeux MMO) auxquels vous avez peut-être joué, osu! ne donne **AUCUN** avantages à n'importe quelle joueur, point barre. Un joueur de niveau 10 naturellement bon au jeu, peut potentiellement battre un joueur de niveau 100 (cela veut dire que tout ce que disent les niveaux est que le joueur de niveau 100 a passé plus de temps à jouer des 'beatmaps' en ligne). Aussi, souvenez-vous que vous obtenez un score plus grand quand votre combo est plus haut (toucher des notes sans en louper une d'affilée)
 
 ### Points de Performance
 
