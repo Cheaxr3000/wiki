@@ -28,7 +28,7 @@ Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton gé
 
 ### Étape 3 - Chargez la dans osu!
 
-Dès que votre téléchargement est terminé, vous pourrez simplement ouvrir la 'beatmap' en fichier **.osz**. Si pour quelques raisons cela ne vous convient pas, vous pouvez prendre et amener le fichier dans la fenêtre osu!
+Dès que votre téléchargement est terminé, vous pourrez simplement ouvrir la 'beatmap' en fichier **.osz**. Si pour quelques raisons cela ne vous convient pas, vous pouvez glisser-déposer le fichier dans la fenêtre osu!
 
 ![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
 
