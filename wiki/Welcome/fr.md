@@ -66,7 +66,7 @@ Basiquement, les Points de Performance sont utilisés pour mesurer la compétiti
 
 ### Précision
 
-Cette mesure est la moyenne de la précision sur tous les scores classée que le joueur à jouer. Ceci est divisé en 2 types différents, la précision des pp, et du joueur en général. Dans votre fenêtre de joueur en jeu, la précision montrer est celle des pp. Pour celle du joueur en général, vous devez regarder la page ”Online Result” après que vous avez joué une 'beatmap' en ligne, ou votre propre page de forum. Dans osu!, la précision mesure non seulement votre visée, mais votre timing aussi, il est donc important d'appuyer sur les notes parfaitement en rythme. Faisez attention au cercle d'approche!
+Cette mesure est la moyenne de précision sur tous les scores classés que le joueur a joué. Celle-ci est divisée en 2 catégories, la précision des pp, et celle du joueur en général. Dans votre fenêtre de joueur en jeu, la précision montrée est celle des pp. Pour celle du joueur en général, vous devez regarder la page ”Online Result” après que vous ayez joué une 'beatmap' en ligne, ou votre propre page de forum. Dans osu!, la précision mesure non seulement votre visée, mais votre timing aussi, il est donc important d'appuyer sur les notes parfaitement en rythme. Faites attention au cercle d'approche!
 
 ### Médailles
 
