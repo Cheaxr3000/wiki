@@ -32,7 +32,7 @@ Dès que votre téléchargement est terminé, vous pourrez simplement ouvrir la 
 
 ![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
 
-### Étape 4 - Jouez pour vous amusez ou rivalisez avec les autres joueurs!
+### Étape 4 - Jouez pour vous amuser ou rivaliser avec les autres joueurs!
 
 Dès que le fichier est ouvert, osu! devrait s'ouvrir. Pour commencer à rechercher vos 'beatmaps' dans votre librairie, cliquez juste sur le géant logo osu! au milieu, appuyez sur ”Play”, ”Solo”. Votre nouvelle 'beatmap' (ainsi que le tutoriel) devrait être listé ici. Choisissez la difficulté que vous voulez jouer et vous êtes partis pour devenir un joueur de osu!! Vous pouvez aussi jouer en ”Multi” au lieu de ”Solo” ou d'autres joueurs seront en train de participer dans des matchs en direct. Vous pouvez aussi faire partie du plaisir.
 
