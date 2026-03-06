@@ -303,17 +303,19 @@ Ceci est aussi vrai pour les 'sliders', si l'entiereté du corp du 'slider' a un
 
 - Ici il est marqué 6, donc cela veut dire que c'est "Whistle" + "Finish".
 
-## b452 slider head, tail, and reverse arrow hitsounding
+## b452 hitsound de tête de slider, queue, et flèche de retour
 
 This version brings another major milestone for hitsounding, you can now hitsound the head, tail, and reverse arrow of a slider individually. Prior to this build you could only hitsound the entire slider body. You can do this by clicking on the body part in the timeline at the top, or the object on the play field until the segment gets highlighted in black.
+Cette version amène un autre grand pilier pour le hitsounding, vous pouvez maintenant mettre des hitsounds sur la tête, queue, et flèche de retour d'un slder individuellement. Avant cette version, vous pouvez seulement mettre un hitsound sur l'entièreté du corp du slider. Vous pouvez faire cela en cliquant sur l'élément du corp dans la timeline en haut, ou l'objet sur la grille de mapping jusqu'à ce que le segment soit surligné en noir. (unsure)
 
 ![An example of me selecting a reverse slider for hitsounding](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b452_reverse_slider_selection.png)
 
-Here is a .osu example of a slider with a reverse arrow, where the entire slider body has hitsounds, and each part of the slider has individual hitsounds:
+Voici un example en .osu d'un slider avec une flèche de retour ou l'etièreté du corp de slider à un hitsoud, et chaque parties du slider ont un hitsound individuel:
 
 `96,160,61755,2,2,B|224:160,2,100,4|6|10`
 
 Compared with the slider example before, there is now an additional comma after the 100, the 4 being a hitsound on the slider head. Then after the pipe character there is a hitsound value of 6 on the reverse arrow, and after the next pipe a hitsound value of 10 has been applied to the slider tail. That means the entire slider body has a whistle applied to it, the slider head has a finish applied to it, the reverse arrow has a whistle and finish applied to it, and the slider tail has whistle and clap applied to it.
+
 
 ### b452 is the first client does not have broken sliders if kiai has been applied to a timing point!
 
