@@ -356,49 +356,50 @@ Pour certaines raisons, le temps de départ pour la transition de taille doit ê
 ## b595b fenêtre design (editeur de storyboard en jeu)
 
 ![A screenshot of the in game storyboard design tab](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_design_tab.png)
-You can now make storyboards within the game itself!
-Vous
+Vous pouvez maintenant faire des storyboards directement dans le jeu!
 
-## b595b green lines
+## b595b ligne vertes
 
-Timing points that only change things with hitsounds are now assigned as green lines! Only timing points with BPM changes (or uninherited points) will receive red lines. Rejoice as you can finally tell what each line's function is!
+Les points de timing qui ne change que les choses en rapports abev les hitsounds sont maintenant désigné comme des lignes vertes! Seul les points de timing avec des changements de BPM (ou non alignée) seront reçu comme lignes rouge. Rejouissez vous, vous pouvez finallement savoir ce qu'est la fonction de chaque ligne!
 
-If you try to import a modern map with slider velocities in it, the game will read the slider velocity change as a BPM multiplier instead, so this version cannot support true slider velocity right now. 
+Si vous essayez d'importer une map moderne avec vélocités de slider le jeu lira le changement de vélocité de slider en tant qu'un changement d'un multiplicateur du BPM à la place, donc cette version ne supporte pas véritablement les changement de vélocité de slider pour l'instant.
 
-## b595b BPM adjustment
+## b595b Ajustement de BPM
 
 ![A screenshot of the Timing section within Timing and Control Points popup menu](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_bpm_adjustment.png)
 
-BPM Adjustment options are now available in the Timing and Control Points popup! This allows you to change the BPM by 0.5x or 2.0 in order to better emphasize more intense or less intense parts of the song! Everything about the editor relates to BPM though, for example, doubling the BPM means your slider velocity is now doubled, your distance snap is now doubled. Even if the value the game displays is the same, this is the actual result. This is the same in the modern game as well.
+Les options d'ajustement de BPM sont maintenant disponible dans le popup 'Timing and Control Points'! Ceci vous permez de changer le BPM par 0.5 ou 2.0 pour mieux soulignez les partie plus ou moins intenses d'une musique! Tout a propos de l'éditeur se rapporte au BPM par contre, doublez le BPM voudra dire que votre vélocité de slider est maintenant doubler, votre distance snap est maintenant doubler. Même si les valeurs du jeu montre les mêmes, ceci est le vrai résultat. Ceci est pareil dans le jeu moderne aussi.
 
 ## b595b additional sample set custom override
+## b595b échantillon additionel remplacement custom (unsure)
 
 ![A screenshot of the Audio section within Timing and Control Points popup menu](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_audio_section.png)
 
-You can now use up to two custom sampleset overrides! Think about the possibilities! 
+Vous pouvez maintenant utilisez jusqu'a 2 échantillon customisé! Pensez aux possibilités!
 
-You can tell within the .osu which sampleset override has been applied to a timing section by looking at the 5th flag
+Vous pouvez savoir dans le .osu quelle échantillon a été appliquer a une section de timing en cherchant le 5ème flag
 
 `500,-100,4,2,1,75,0`
 
-- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
+- Le ˋ1ˋ dans la 5ème section ici indique sue cette section utilise l'échantillon customisé 1. C'est cette version du jeu qui vous laisse utilisé jusqu'a 2, si le nombre est plus haut, le je le lira comme si il n'y a aucun remplacement, donc pas de triche! osu! n'en remplacera aucun en sauvegardant au moins.
 
-## b699 support for mode specific maps
+## b699 support pour des maps en modes specific
 
-Now when you upload a map it should correctly identify the mode. I can't test this since titanic BSS isn't ready yet, but that means that maps from this client should properly show up as taiko maps, not just taiko maps that were forced to be playable in standard too lol. CtB is not supported yet.
+Maintenant quand vous téleversez une map, le gamemode devrait être correctement identifier. Je ne peux pas tester cela vu que le BSS de titanic n'est pas encore prêt, mais cela veut dire que les maps de ce client devrait apparaitre proprement en tant que maps taiko, pas juste des maps taiko qui était forcé d'être jouable en standard aussi lol. CtB n'est pas encore supporté
 
-## b699 kiai time
+## b699 temps de kiai
 
-Kiai time can now be added! This adds some visual flare to the game during the timing sections that utilize it. For some reason it also has gameplay modifications as well, such as making some objects worth more points in taiko, changes the HD fade distance to be lower. In addition, there are glow effects for notes. In standard this shows up under notes, and in CtB the glow effect is where the fruit will land.
+Le temp de Kiai peut maintenant être ajouter! Ceci rajoute quelque effets visuels au jeu pendant les section de timing qui l'utilise. Pour quelque raisons ceci a des modifications de gameplay aussi, telle que faire en sorte que certains objets donne plus de points en taiko, changer la distance de disparrission de HD pour qu'elle soit plus basse. De plus, il y a un effet de lueur sous les notes, en en CtB l'effet de lueur est là ou le fruit va tomber.
 
 
-## b699 rotate by...
+## b699 Faire pivoter...
 
 ![Rotate by... popup as seen in b699](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b699_rotate_by.png)
 
-You can finally rotate objects by arbitrary amounts, rejoice! Annoyingly you have to type an amount in this version, so it's not all sunshine and rainbows, and no preview, type a number, hit OK and see what horrors you have unleashed I guess lol.
+Vous pouvez finalement pivotez par montants arbitraire, soyez ravi! Un truc embettant est que vous devez ecrire un montant dans cette version, donc ce n'est pas le monde des Bisounours, et aucun aperçue, ecrivez un nombre, appuyez sur OK et regardez l'horreur que vous avez déchainner j'imagine mdr.
 
 ## b753a grid snap and beat snap divisors saved to .osu
+## b753a 'grid snap' et 'beat snap divisors' sauvegardez dans le .osu
 
 Quality of life change, these are now saved to the .osu, so you can see what settings the mapper used, rather than your last used settings.
 
