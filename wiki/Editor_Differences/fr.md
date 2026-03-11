@@ -314,23 +314,25 @@ Voici un example en .osu d'un slider avec une flèche de retour ou l'etièreté 
 
 `96,160,61755,2,2,B|224:160,2,100,4|6|10`
 
-Compared with the slider example before, there is now an additional comma after the 100, the 4 being a hitsound on the slider head. Then after the pipe character there is a hitsound value of 6 on the reverse arrow, and after the next pipe a hitsound value of 10 has been applied to the slider tail. That means the entire slider body has a whistle applied to it, the slider head has a finish applied to it, the reverse arrow has a whistle and finish applied to it, and the slider tail has whistle and clap applied to it.
+
+Comparé avec l'exemple de 'slider' d'avant, il y a maintenant une virgule en plus après le 100, the 4 étant un hitsound sur la tête de 'slider'. Après le charactère tube il y a un hitsou d avec une valeur de 6 sur la flèche de retour, et après le prochain tube un hitsound d'une valeur de 10 a été appliquer sur la queu de 'slider'. Cela veut dire que l'entièreté du corps du 'slider' à un hitsound Whistle et Finish appliquer dessus, et que la queu de 'slider' a un hitsound de Whistle et Clap appliquer dessus.
 
 
-### b452 is the first client does not have broken sliders if kiai has been applied to a timing point!
+### b452 est le premier client qui n'a pas slider casser sinle kiai a été ajouter à un point de timing!
 
-## b497 storyboarding changes
 
-Storyboarding in b497 got a big overhaul, this is the format that would later be supported by the first versions of the in game design tab like in b595b. This format isn't hugely different from what modern stable expects, but there are few things to keep in mind. You may not have a design tab yet in this version, but storyboards are visible within the editor. If you want to reload your SB after changes do `CONTROL + L`. Annoyingly, this version of osu! will delete any lines it does not understand. So make sure you keep your text editor open or have backups.
+## b497 changement de storyboard
 
-Here are some important rules to know about manual storyboarding in this format:
+Faire un storyboard dans b497 a été grandement réviser, ceci est le format qui sera supporté plus tard par les premières versions de la fenêtre de design en jeu dans b595b. Ce format n'est pas grandement différent de ce qu'il y a dans la version moderne de stable, mais il y a quelque petite choses a garder en tête, Vous n'avez peut-être pas une fenêtre de design dans cette version, mais les storyboards sont visible dans l'editeur. Si vous voulez rechargez votre SB après les change:ents, faites ˋCONTROLE + Lˋ. Assez embettant que c'est, cette versions de osu! supprimera n'importe quelle ligne qu'elle ne comprend pas. Donc soyez sur de gardez votre editeur de texte ouvert ou ayez des backups.
 
-- X & Y coordinates can never contain decimals `320,227.5` would be invalid, unlike in the modern game.
-- Scale commands must have a start and end command. `S,0,11892,15594,0.4` is valid in modern stable, but it must be adapted to have an end scaling transformation, even if it's just the same value. `S,0,11892,15594,0.4,0.4` is valid in this format
-- Modern stable uses the easy to read Name format for all objects such as `Sprite,Foreground,Centre,` for the start of any object in the storyboard. This version expects you to use numerical values to represent these things. So for my example Sprite is considered type `4`, Foreground is considered type `3`, Centre is considered value `1`. `4,3,1,"Storyboard\Lyrics\A1.png",320,200` would be the valid format for this version.
+Voici quelque règles importantes à connaitre pour faire un storyboard manuel dans ce format:
+
+- Les coordonnées X & Y ne peuvent jamais contenir de decimals ˋ320,227.5ˋ serait invalide, pas comme dans le jeu moderne.
+- Les commandes d'Échelle (Scale) doivent avoir un début et une fin. ˋS,0,11892,15594,04ˋ est valide dans la version moderne de stable, mais il peut être adapté pour avoir une fin d'échelle de transformation, même si c'est la même valeur. ˋS,0,11892,15594,0.4,0.4ˋ est valide dans ce format
+- Stable moderne utilise le formzt simple à lire "Name" pour tout les objets telle que ˋSprite,Foreground,Centre,ˋ pour le début de n'importe quelle objet dans le storyboard. Cette version attend de vous d'utiliser des valeurs numérique pour représenter ces choses. Donc pour mon 'Sprite' d'exemple il est considéré comme type ˋ4ˋ, 'Foreground' est considéré type ˋ3ˋ, 'Centre' est considéré comme de valeur ˋ1ˋ. ˋ4,3,1,"Storyboard\Lyrics\A1.png",320,200ˋ serait un format valide pour cette version.
 
 ![Any example of a storyboard loaded in b497](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b497_storyboard.png)
-Here is a valid storyboard tag example for within a .osb:
+Voici un exemple valide de tag de storyboard dans un .osb:
 
 ```
 4,3,1,"Storyboard\Lyrics\A4.png",320,200
@@ -339,7 +341,7 @@ Here is a valid storyboard tag example for within a .osb:
  F,0,235373,235563,1,0
 ```
 
-Here is a valid storyboard tag example for within a .osu:
+Voici un exemple valide de tag de storyboard dans un .osu:
 
 ```
 4,3,1,"Storyboard\Lyrics\A4.png",320,200
@@ -347,14 +349,15 @@ Here is a valid storyboard tag example for within a .osu:
  S,0,232715,232715,235563,0.4,0.4
  F,0,235373,235563,1,0
 ```
-For some reason the start time for the size transition must be there twice.
+Pour certaines raisons, le temps de départ pour la transition de taille doit être là deux fois.
 
-### b504 is the last build to allow CS 0-10 without .osu editing
+### b504 est le dernier build à autorisée CS 0-10 sans aller éditer dans le .osu
 
-## b595b design tab (in game storyboard editor)
+## b595b fenêtre design (editeur de storyboard en jeu)
 
 ![A screenshot of the in game storyboard design tab](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_design_tab.png)
 You can now make storyboards within the game itself!
+Vous
 
 ## b595b green lines
 
