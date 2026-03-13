@@ -398,12 +398,11 @@ Le temp de Kiai peut maintenant être ajouter! Ceci rajoute quelque effets visue
 
 Vous pouvez finalement pivotez par montants arbitraire, soyez ravi! Un truc embettant est que vous devez ecrire un montant dans cette version, donc ce n'est pas le monde des Bisounours, et aucun aperçue, ecrivez un nombre, appuyez sur OK et regardez l'horreur que vous avez déchainner j'imagine mdr.
 
-## b753a grid snap and beat snap divisors saved to .osu
 ## b753a 'grid snap' et 'beat snap divisors' sauvegardez dans le .osu
 
-Quality of life change, these are now saved to the .osu, so you can see what settings the mapper used, rather than your last used settings.
+Changement de qualité de vie, ces choses sont maintenant sauvegardezs dans le .osu, donc vous pouvez voir quelles paramètre le 'beatmapper', plutôt que vos derniers que vous avez utilisez.
 
-# b1077a to b1218 (v6)
+# b1077a à b1218 (v6)
 
 .osu v6 fixed an issue with stacking objects over spinners and animation speeds in storyboards that existed in .osu v5's. Bugs like this are maintained for compatibility in gameplay, but are not visible in the editor. The editor updates the map to the most recent format when you open it (this is why you get prompted to update old maps if you simply just open them and do nothing, and then exit)
 
