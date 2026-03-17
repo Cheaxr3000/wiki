@@ -405,47 +405,50 @@ Changement de qualité de vie, ces choses sont maintenant sauvegardezs dans le .
 # b1077a à b1218 (v6)
 
 .osu v6 fixed an issue with stacking objects over spinners and animation speeds in storyboards that existed in .osu v5's. Bugs like this are maintained for compatibility in gameplay, but are not visible in the editor. The editor updates the map to the most recent format when you open it (this is why you get prompted to update old maps if you simply just open them and do nothing, and then exit)
+Le .osu v6 a réparé un probleme avec l'empilement d'objet	au dessus des spinners, et la vitesse d'animation dans les storyboards qui existaient ans les .osu v5. Les bugs comme ça sont maintenu pour la compabilité dans le jeu, mais ne sont pas visible dans l'éditeur, L'éditeur met à jour la 'beatmap' au format le plus recent quand vous l'ouvrez (c'est pourquoi vous êtes demandez de mettre à jour les vielles 'beatmaps' si vous les ouvrez simplement et faite rien, et puis quittez) (unsure)
 
 # b1533 (v7)
 
-This is the only build that we have the creates .osu v7's. This fixed a calculation issue with multipart bezier sliders.
+Ceci est la seul version que nous avons qui crées des .osu v7. Ceci répare un une erreur de calculation avec les 'slider's bezier. 
 
-# b1652 to b1672 (v8)
+# b1652 à b1672 (v8)
 
-According to documentation, 3 changes were made with v8. 
+Selon les documentations, 3 changements ont été fait avec la v8.
 
-## mm additions
+## additions de mm
 
-Constant sliderticks-per-beat are now generated
+Des ”tiques de sliders par beat” constant sont maintenant généré.
 
-## HP drain near breaks
+## Drainage de PV vers les pauses
 
-I don't know if it was made harder or easier. No one cares exactly how HP works, so this kind of stuff never gets fully documented.
+Je ne sais pas si cela a été rendu plus difficile ou plus facile. Personne se soucie de comment les PV marche exactement, donc ce genre de choses ne sont jamais entièrement documenté.
 
-## taiko triple drumrolls
+## triple roulement de tambours en taiko
 
-It's not clear if they were added, or fixed in this version.
+Ce n'est pass claire si ils ont été rajouté, ou réparé dans cette version.
 
-# b1700 to b20120916 (v9)
+# b1700 à b20120916 (v9)
 
-## b1700 only bezier sliders
+## b1700 seulement des 'sliders' bezier
 
 Peppy decided to wage war on all the older slider curve types. .osu v9's contain only bezier sliders. Linear sliders are recreated through red anchors or 2 point beziers, catmulls and linears are no longer selectable using the slider curve type hotkeys. Any slider curves your map has when you open them in these clients will be maintained, but if you try adding any new points to any old slider it becomes a bezier.
+Peppy à décidé faire la guerre sur tout les types de vielles courbure de slider. Le .osu v9 contient seulemnt les 'sliders' bezier. Les sliders Linéaire sont recréer à travers les ancres rouges, ou 2 points bezier, Catmull et Linéaire ne sont plus selectionable en utilisant les raccourcis de clavier de type de roubure de slider. N'importe quelle type de slider que votre map à en quand vous l'ouvrez dans ces clients seront maintenu, mais si vous esayez d'ajouter un nouveau point a un vieux 'slider' il deviendra un bezier. (not too sure)
 
-## b1700 spinner new combos are no longer enforced
+## b1700 nouveau combo de spinner ne sont plus imposé
 
 This is a change that peppy has flip flopped on many times. In modern stable this is actually enforced again, but on modern lazer it isn't. Older versions had it not enforced, then it became enforced.
+C'est un changement que peppy a floppé dessus plusieurs fois. Dans la version moderne de stable ceci est actuellement encore imposé, mais sur la version moderne de Lazer, ça ne l'est pas. Dans les vielles versions ça ne l'était pas, mais il est devenu imposé. (unsure)
 
-# b20121003shine.test to b20121203 (v10)
+# b20121003shine.test à b20121203 (v10)
 
-Compared to previous .osu firmat updates, this brings many new features to the format!
+Comparé aux anciennes mis à jour du format .osu, ceci amène plusieurs nouvelles fonctionalités au format!
 
-## b20121003shine.test mania editor
+## b20121003shine.test éditeur mania
 ![b20121003shine.test mania editor](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_mania_editor.png)
 
-This is the very first version that supports mania! It has some differences compared to modern. This veraion of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are acrually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
+Ceci est la toute preière version qui supporte mania! Elle a quelque différences comparé à la version moderne. Cette version du jeu utilise une colone de grille très basique avec des 'hitobjects' normaux. Ceci donne une bonne vu de comment les 'beatmaps' mania sont vraiment enregistré dans le fichier .osu. L'air de jeu esr divisé en combien de colone la map as (basé sur la taille des cercles). Les 'sliders' sont utilisé pour les LNs, le bouton mderne ”Hold Note” n'existe pas encore.
 
-Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that weremade during this time were updated alongside the editor improving.
+Mania était tellement éxperimental durant le temps de ce format que les 'beatmaps' n'était pas autorisée d'être ranké durant cette vesion du .osu sur Bancho. Toute les 'beatmaps' mania qui ont était faite durant cette époque était mise à jour en meme temps que l'éditeur s'améliorait.
 
 ## b20121003shine.test sampleset additions
 ![b20121003shine.test SamepleSet Additions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_sampleset_additions.png)
