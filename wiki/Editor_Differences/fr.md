@@ -458,28 +458,28 @@ Ceci développe grandement le 'hitsounding', vous pouvez ajouter la version 'sof
 ## b20121003shine.test champs d'artiste et musique romanisé
 ![b20121003shine.test Song Setup](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_song_setup.png)
 
-Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
-Vous pouvez finalement utilisez la langue d'origine pour le nom d'artiste et de la musique, et les mettre en Anglais aussi. Ceci est une fonctionalité importante sur Bancho, si le nom de l'artiste est écrie dans une autre langue sur Bancho, vous devez utiliser les 
+Vous pouvez finalement utilisez la langue d'origine pour le nom d'artiste et de la musique, et les mettre en Anglais aussi. Ceci est une fonctionalité importante sur Bancho, si le nom de l'artiste est écrie dans une autre langue sur Bancho, vous devez utiliser les 2 champs conformément aux critères de classement. Prenez l'artiste Japonaise monet, son nom est toujours écrie en Anglais, donc seulement le champs normal est utilisé. Ceci n'est pas une règle imposé de titanic en revanche.
 
-## b20121003shine.test BeatmapID and BeatmapsetID saved directly to the .osu file. 
+## b20121003shine.test BeatmapID et BeatmapsetID enregistré diretement dans le fichier .osu.
 
-This is important, as tools such as Mapset Verifier check to make sure these tags are there, and therefore are an unspoken requirement to the Ranking Criteria on Bancho. Titanic does jot force this though.
+Ceci est important, car des outils tel que ”Mapset Verifier” vérifie que ces tags sont là, et donc sont des exigence tacites aux Critères de Classement sur bancho. Cependant titanic ne force pas cela.
 
-## b20121003shine.test fixed each bezier sliders part being 1/50 second too short
+## b20121003shine.test répare chaque partie de 'sliders' bezier qui était 1/50 de seconde trop courte
 
-This is the actual reason for peppy incrementing the format to v10. This is the second time a .osu incrememnt happened due to issues with Bezier sliders lol
+Cec est la vrai raison pour peppy d'avoir incrémenté au format v10. C'est la deuxième fois qu'un .osu ai été incrémenté du au problème avec les 'sliders' Bezier mdr
 
 ## b20121003shine.test osz2
 
-This is the very first release version of osu! that uploads maps as osz2's. The important part about this feature, is only clients with osz2 support can currently upload maps on titanic. So if you want to upload your maps, this is the first version you can use!
+Ceci est la toute première version de osu! qui téleverse des 'beatmaps' en osz2. La partie importante de cette fonctionalité est que seulement les cients qui supporte osz2 peuvent actuellement téleverser des 'beatmaps' sur titanic. Donc si vous voulez téleverser vos 'beatmaps', ceci est la première evrsion que vous pouvez utiliser!
 
 # b20121223 (v11)
 
-This is the only build we have that creates .osu v11's. 
+Ceci est la seul version que nous avons qui crée des .osu v11.
 
-## "only" perfect curve sliders
+## ”seulement” les 'sliders” à courbure parfaite
 
 There are a few version of osu! that saves every slider as perfect curve sliders, you can see this in maps like this one: https://osu.ppy.sh/beatmapsets/66346#osu/193641. This is very similar to what .osu v9 and v10 did with bezier sliders. 
+Il y a peu de version de osu qui enregistre tout les 'sliders' en 
 
 ## linear, perfect curve, bezier slider saving in .osu file
 
