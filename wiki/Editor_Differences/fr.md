@@ -450,15 +450,16 @@ Ceci est la toute preière version qui supporte mania! Elle a quelque différenc
 
 Mania était tellement éxperimental durant le temps de ce format que les 'beatmaps' n'était pas autorisée d'être ranké durant cette vesion du .osu sur Bancho. Toute les 'beatmaps' mania qui ont était faite durant cette époque était mise à jour en meme temps que l'éditeur s'améliorait.
 
-## b20121003shine.test sampleset additions
+## b20121003shine.test additions d'échantillons
 ![b20121003shine.test SamepleSet Additions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_sampleset_additions.png)
 
-This greatly expands hitsounding, you can add the soft, normal, drum versions of any hitsound on top of the original sampleset's hitsound, creating much more depth. 
+Ceci développe grandement le 'hitsounding', vous pouvez ajouter la version 'soft', 'normal', et 'drum' a n'importe quelle hitsound au dessus de l'échantillion d''hitsound' original, créant plus de profondeur.
 
-## b20121003shine.test romanized artist and song fields 
+## b20121003shine.test champs d'artiste et musique romanisé
 ![b20121003shine.test Song Setup](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_song_setup.png)
 
 Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
+Vous pouvez finalement utilisez la langue d'origine pour le nom d'artiste et de la musique, et les mettre en Anglais aussi. Ceci est une fonctionalité importante sur Bancho, si le nom de l'artiste est écrie dans une autre langue sur Bancho, vous devez utiliser les 
 
 ## b20121003shine.test BeatmapID and BeatmapsetID saved directly to the .osu file. 
 
