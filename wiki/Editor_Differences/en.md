@@ -1,4 +1,4 @@
-﻿# Client Editor Differences
+# Client Editor Differences
 
 [TOC]
 
@@ -369,7 +369,7 @@ You can tell within the .osu which sampleset override has been applied to a timi
 
 `500,-100,4,2,1,75,0`
 
-- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
+- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
 
 ## b699 support for mode specific maps
 
@@ -443,7 +443,7 @@ This greatly expands hitsounding, you can add the soft, normal, drum versions of
 ## b20121003shine.test romanized artist and song fields 
 ![b20121003shine.test Song Setup](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_song_setup.png)
 
-Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
+Finally you can use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
 
 ## b20121003shine.test BeatmapID and BeatmapsetID saved directly to the .osu file. 
 
@@ -481,7 +481,7 @@ This build adds the ability to add decimal difficulty values to maps! At the tim
 
 # mid 2015 to now (v14)
 
-This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
+This version adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB player and I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
 # Late 2018 to now (v128)
 
