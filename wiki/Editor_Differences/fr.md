@@ -478,24 +478,23 @@ Ceci est la seul version que nous avons qui crée des .osu v11.
 
 ## ”seulement” les 'sliders” à courbure parfaite
 
-There are a few version of osu! that saves every slider as perfect curve sliders, you can see this in maps like this one: https://osu.ppy.sh/beatmapsets/66346#osu/193641. This is very similar to what .osu v9 and v10 did with bezier sliders. 
-Il y a peu de version de osu qui enregistre tout les 'sliders' en 
+Il y a peu de version de osu qui enregistre tout les 'sliders' en courbure parfaite, vous pouvez voir cela dans des 'beatmaps' comme celle ci: https://osu.ppy.sh/beatmapsets/66346#osu/193641 . Ceci est vraiment similaire à ce que les .osu v9 et v10 font avec les 'sliders' bezier.
 
-## linear, perfect curve, bezier slider saving in .osu file
+## sauvegarde des 'sliders' linéaire, à courbure parfaite, bezier dans le fichier .osu
 
-At some point it got switched to the way we all know today. Honestly I'm not even sure if this is a v12 change or a v11 change yet. 
+A un moment cela à été changé à la façon que nous connaissons ous aujourd'hui. Honnetemment je ne suis meme pas sure si ceci est un changement de la v12 ou de la v11 pour l'instant.
 
-2 point sliders are always saved linear, 3 points as perfect curves, 4 points or more as bezier. This is how osu! reads the maps that claim every slider is a perfect curve, so may as well just save it like this so it's easier to parse the .osu file.
+Les sliders à 2 points sont toujours sauvegardé comme linéaire, 3 points en courbe parfaite, 4 points ou plus comme bezier. Ceci est comment osu! lit les 'beatmaps' qui prétende que tout les 'sliders' sont à courbe parfaite, donc autant les sauvegarder comme cela pour que ce soit plus simple à analyser dans le fichier .osu.
 
-# b20130303 to mid 2014 (v12)
+# b20130303 à mi-2014 (v12)
 
-I have no idea what this added
+Je n'ai aucune idée de ce qui a été rajouté
 
-# mid 2014 to mid 2015 (v13)
+# mi-2014 à mi-2015 (v13)
 
-This build adds the ability to add decimal difficulty values to maps! At the time this got added you could only do .5 increments, but this would later be changed to support .1 increments. However, do note that decimal difficulty settings are against the ranking criteria on titanic! Do not upload maps with AR 9.5 for example.
+Cette verrison rajoute la possibilité d'ajouté des valeurs décimal de difficulté au 'beatmaps'! Au moment ou cela a été rajouté, vous pouviez seulement faire des incréments de .5, mais cela sera changé plus tard pour supporté des incréments de .1. Mais, notez bien que les paramètres de difficulté décimal sont contre les critère de classement sur titanic! Ne téleverser pas des maps avec AR9.5 par exemple.
 
-# mid 2015 to now (v14)
+# mi-2015 à aujourd'hui (v14)
 
 This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
