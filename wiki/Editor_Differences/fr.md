@@ -497,11 +497,11 @@ Cette verrison rajoute la possibilité d'ajouté des valeurs décimal de difficu
 # mi-2015 à aujourd'hui (v14)
 
 This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
-    Cette version ajoute des échatillons par noeuds aux 'sliders' (ou ”juice streams”) pour Catch the Beat. Je suis un
+Cette version ajoute des échantillons par noeuds aux 'sliders' (ou ”juice streams”) pour Catch the Beat. Je suis un jouers de Ctb et je ne sais même pas ce que cela veut dire, et je n'ai aucune idée ded si quelqu'un utilise cela pour être honnete. (what is said here?)
 
-# Late 2018 to now (v128)
+# Fin 2018 à aujourd'hui (v128)
 
-This is the .osu version for all maps made on lazer. Inside lazer you can export maps in compatiblity mode (osz) for editing on stable, or you can save in the lazer format (olz) for editing on lazer. As of the time of me writing this (7-25-2024), there has never been a 100% pure .osu v128 ranked, as all lazer maps ranked on Bancho, or Titanic have been updated on stable during the ranking process, bringing the .osu version back to v14. However, using my modded client you can actually upload the map as a pure .osu v128, so if you are feeling adventurous you could be the very first one to do so!
+Ceci est la version de .osu pour toute 'beatmaps' faites sur lazer. Dans lazer vous pouvez exporter les 'beatmaps' en mode compatible (osz) pour éditer sur stable,  ou vous pouvez la sauvegarder dans le format de lazer (olz) pour éditer sur lazer. Au jour ou j'écris cela (25/07/2024), il y a jamais eu un .osu v128 100% pure classé, car toute les maps lazer classé sur Bancho, ou Titanic ont été mis à jour sur stable pendant la procédure de classement, ramenant à la version de .osu v14. Mais, utiliser mon client moddé, vous pouvez téleverse une map entant qu'un pure .osu v128, donc si vous vous sentez aventureux, vous pouvez être la toute première personne à faire cela!
 
 # b20130303 Digital Client++
 
