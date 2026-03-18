@@ -481,7 +481,7 @@ This build adds the ability to add decimal difficulty values to maps! At the tim
 
 # mid 2015 to now (v14)
 
-This version adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB player and I don't even know what this means, and I have no idea if anyone uses this to be honest.
+This version adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB BAT and I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
 # Late 2018 to now (v128)
 
