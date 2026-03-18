@@ -506,6 +506,7 @@ Ceci est la version de .osu pour toute 'beatmaps' faites sur lazer. Dans lazer v
 # b20130303 Digital Client++
 
 This a modded mapping client made by Digitalfear117, with help from Nikku, Tree, and Levi! This offers many legacy and stable features for mappers to use, and a few extra new ones as well.
+Ceci est un client moddé de 'beatmapping' fait par Digitalfear117, avec de l'aide de Nikku, Tree, et Levi! Ceci offre beaucoup de fonctionnalité héritées et stables pour les mappeurs à utilisé, et quelque nouvelle fonctionqlitées en plus aussi.
 
 ## slider curve type swapping
 
