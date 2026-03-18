@@ -497,7 +497,7 @@ Cette verrison rajoute la possibilité d'ajouté des valeurs décimal de difficu
 # mi-2015 à aujourd'hui (v14)
 
 This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
-Cette version ajoute des échantillons par noeuds aux 'sliders' (ou ”juice streams”) pour Catch the Beat. Je suis un jouers de Ctb et je ne sais même pas ce que cela veut dire, et je n'ai aucune idée ded si quelqu'un utilise cela pour être honnete. (what is said here?)
+Cette version ajoute des échantillons par noeuds aux 'sliders' (ou ”juice streams”) pour Catch the Beat. Je suis un BAT pour CtB et je ne sais même pas ce que cela veut dire, et je n'ai aucune idée ded si quelqu'un utilise cela pour être honnete. (what is said here?)
 
 # Fin 2018 à aujourd'hui (v128)
 
