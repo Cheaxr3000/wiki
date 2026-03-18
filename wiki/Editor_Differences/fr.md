@@ -508,13 +508,15 @@ Ceci est la version de .osu pour toute 'beatmaps' faites sur lazer. Dans lazer v
 This a modded mapping client made by Digitalfear117, with help from Nikku, Tree, and Levi! This offers many legacy and stable features for mappers to use, and a few extra new ones as well.
 Ceci est un client moddé de 'beatmapping' fait par Digitalfear117, avec de l'aide de Nikku, Tree, et Levi! Ceci offre beaucoup de fonctionnalité héritées et stables pour les mappeurs à utilisé, et quelque nouvelle fonctionqlitées en plus aussi.
 
-## slider curve type swapping
+## Changement de type de courbure de 'slider'
 
 Just like older clients, you can press A, S, or D to change slider curve types. Unlike old clients you can also press F to change to perfect curves too! This is the first client that you can easily choose any slider curve type.
+Comme sur les clients plus vieux, vous pouvez appuyez sur A, S ou D pour changer de type de courbure de 'slider'. Pas comme les vieux clients, vous pouvez aussi appuyer sur F pour changer ou courbes parfaite aussi! Ceci est le premier client qui vous laisse choisir aisément n'importe quelle type de courbure de 'slider'. (unsure)
 
-## expanded beat snap divisor and distance snap
+## expansion des diviseur d'alignement de rythme et d'alignement de distance
 
 Using the Unhinged Slider Curve Type, and Unhinged Beat Snap Divisor options in the editor, you can use DS from 0.1x to 16x, and you can map from any beat snap 1/1 to 1/32. These features do also fully work when exported to stable or lazer, so get crazy with it!
+En utilisant un 
 
 ## fixed sv decimal rounding
 
