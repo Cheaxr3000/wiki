@@ -506,7 +506,7 @@ Ceci est la version de .osu pour toute 'beatmaps' faites sur lazer. Dans lazer v
 # b20130303 Digital Client++
 
 This a modded mapping client made by Digitalfear117, with help from Nikku, Tree, and Levi! This offers many legacy and stable features for mappers to use, and a few extra new ones as well.
-Ceci est un client moddé de 'beatmapping' fait par Digitalfear117, avec de l'aide de Nikku, Tree, et Levi! Ceci offre beaucoup de fonctionnalité héritées et stables pour les mappeurs à utilisé, et quelque nouvelle fonctionqlitées en plus aussi.
+Ceci est un client moddé de 'beatmapping' fait par Digitalfear117, avec de l'aide de Nikku, Tree, et Levi! Ceci offre beaucoup de fonctionnalité héritées et stables pour les mappeurs à utilisé, et quelque nouvelle fonctionnalitées en plus aussi.
 
 ## Changement de type de courbure de 'slider'
 
@@ -516,20 +516,20 @@ Comme sur les clients plus vieux, vous pouvez appuyez sur A, S ou D pour changer
 ## expansion des diviseur d'alignement de rythme et d'alignement de distance
 
 Using the Unhinged Slider Curve Type, and Unhinged Beat Snap Divisor options in the editor, you can use DS from 0.1x to 16x, and you can map from any beat snap 1/1 to 1/32. These features do also fully work when exported to stable or lazer, so get crazy with it!
-En utilisant un 
+En utilisant un type de courbure de 'slider' ”détraqué”, et des diviseur d'alignement de rythme ”détraqué” dans l'éditeur, vous pouvez utiliser l'alignement de distance depuis 0.1x jusqu'à 16x, et vous pouvez aussi mapper sur n'importe quelle alignement de rythme depuis 1/1 jusqu'a 1/32. Ces fonctionalités fonctionne aussi entièrement quand elle sont exporté à stable ou lazer, donc soyez fou avec! (unsure)
 
-## fixed sv decimal rounding
+## arrondissement de décimal de vélocité de 'slider' réparé
 
-For some reason this version of osu! would round sv's like 0.95 to 1.00. This has been fixed in my client
+Pour quelque raisons, cette version de osu! arrondissait les vélocité de 'slider' comme 0,95, vers 1,00. Ceci a été réparé dans mon client
 
-## decimal difficulty settings
+## paramètres de difficulté décimal
 
-You cannot use AR's such as 9.5 when uploading maps to titanic. They must be whole numbers. However, if you wish to map for stable or lazer, you can enable this in Compose. Using decimal difficulty settings will save the map as a .osu v13 instead of a v12.
+Vous ne pouvez pas utilisez des AR telle que 9.5 quand vous téleverser des 'beatmaps' sur titanic. Ces valeurs doivent être des nombres entier. En revanche, si vous voulez 'beatmapper' pour stable ou lazer, vous pouvez activez cela dans ”Compose”. Utiliser des paramètres de difficulté décimal enregistrera la 'beatmap' entant que .osu v14 au lieu de v12.
 
-## taiko and catch the beat editors
+## éditeur de taiko et catch the beat
 
-Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's.
+Meme si stable moderne ne donne l'impression d'offrir beaucoup pour le 'beatmapping' de Taiko et CtB, ils ont quelque fonctionnalité en plus. Pour CtB la calculation de distance change seulement seulement quand vous bouger quelque chose sur la coordoné X, et pour Taiko vous pouvez voir en temps réel la couleur des 'dons' et 'kats' basé sur les Nouveau Combos.
 
-## uploading older .osu formats
+## téleverser des formats de .osu plus vieux
 
-All other osu clients force update your .osu file to the version they are built around, however my client is different. You can import your map from another client, and go directly to the upload button. It will ask you if you want to force save, and you can hit No. Doing this will skip the saving process, allowing you to upload any map from any client in a pure fashion! Try this for uploading .osu v9's and earlier, and .osu v128's!
+Tout les autres clients de osu! vous force a mettre à jour vos fichier .osu à la version ou ils sont construit autour, en revanche, mon client est différent. Vous pouvez importer vos 'beatmaps' d'un autre client, et directement aller au bouton de téleversement. Cela vous demandera si vous voulez forcer une sauvegarde, et vous pouvez appuer sur Non. Faire cela sautera le procéssus de sauvegarde, vous permettant de téleverser n'importe quelle 'beatmap' de n'importe quelle client de façon pure! essayer cela pour téleverser des .osu v9 et avant et des .osu v128!
