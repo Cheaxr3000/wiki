@@ -363,8 +363,7 @@ Si vous essayez d'importer une map moderne avec vélocités de slider le jeu lir
 
 Les options d'ajustement de BPM sont maintenant disponible dans le popup 'Timing and Control Points'! Ceci vous permez de changer le BPM par 0.5 ou 2.0 pour mieux soulignez les partie plus ou moins intenses d'une musique! Tout a propos de l'éditeur se rapporte au BPM par contre, doublez le BPM voudra dire que votre vélocité de slider est maintenant doubler, votre distance snap est maintenant doubler. Même si les valeurs du jeu montre les mêmes, ceci est le vrai résultat. Ceci est pareil dans le jeu moderne aussi.
 
-## b595b additional sample set custom override
-## b595b échantillon additionel remplacement custom (unsure)
+## b595b remplacement d'échantillon additionel custom
 
 ![A screenshot of the Audio section within Timing and Control Points popup menu](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_audio_section.png)
 
@@ -397,8 +396,7 @@ Changement de qualité de vie, ces choses sont maintenant sauvegardezs dans le .
 
 # b1077a à b1218 (v6)
 
-.osu v6 fixed an issue with stacking objects over spinners and animation speeds in storyboards that existed in .osu v5's. Bugs like this are maintained for compatibility in gameplay, but are not visible in the editor. The editor updates the map to the most recent format when you open it (this is why you get prompted to update old maps if you simply just open them and do nothing, and then exit)
-Le .osu v6 a réparé un probleme avec l'empilement d'objet	au dessus des spinners, et la vitesse d'animation dans les storyboards qui existaient ans les .osu v5. Les bugs comme ça sont maintenu pour la compabilité dans le jeu, mais ne sont pas visible dans l'éditeur, L'éditeur met à jour la 'beatmap' au format le plus recent quand vous l'ouvrez (c'est pourquoi vous êtes demandez de mettre à jour les vielles 'beatmaps' si vous les ouvrez simplement et faite rien, et puis quittez) (unsure)
+Le .osu v6 a réparé un probleme avec l'empilement d'objet au dessus des spinners, et la vitesse d'animation dans les storyboards qui existaient dans les .osu v5. Les bugs comme ceux la sont maintenu pour la compabilité dans le jeu, mais ne sont pas visible dans l'éditeur. L'éditeur met à jour la 'beatmap' au format le plus recent quand vous l'ouvrez (c'est pourquoi vous êtes demandez de mettre à jour les vielles 'beatmaps' si vous les ouvrez simplement, faite rien, et puis quittez)
 
 # b1533 (v7)
 
@@ -425,7 +423,7 @@ Ce n'est pass claire si ils ont été rajouté, ou réparé dans cette version.
 ## b1700 seulement des 'sliders' bezier
 
 Peppy decided to wage war on all the older slider curve types. .osu v9's contain only bezier sliders. Linear sliders are recreated through red anchors or 2 point beziers, catmulls and linears are no longer selectable using the slider curve type hotkeys. Any slider curves your map has when you open them in these clients will be maintained, but if you try adding any new points to any old slider it becomes a bezier.
-Peppy à décidé faire la guerre sur tout les types de vielles courbure de slider. Le .osu v9 contient seulemnt les 'sliders' bezier. Les sliders Linéaire sont recréer à travers les ancres rouges, ou 2 points bezier, Catmull et Linéaire ne sont plus selectionable en utilisant les raccourcis de clavier de type de roubure de slider. N'importe quelle type de slider que votre map à en quand vous l'ouvrez dans ces clients seront maintenu, mais si vous esayez d'ajouter un nouveau point a un vieux 'slider' il deviendra un bezier. (not too sure)
+Peppy à décidé faire la guerre sur tout les vieux types de courbure de slider. Les .osu v9 contiennent seulemnt les 'sliders' bezier. Les sliders Linéaire sont recréer à travers les ancres rouges, ou 2 points bezier, Catmull et Linéaire ne sont plus selectionable en utilisant les raccourcis de clavier de type de courbure de 'slider'. N'importe quelle type de courbe de 'slider' que votre slider à quand vous ouvrez la 'beatmap' seront maintenu dans ce client, mais si vous esayez d'ajouter un nouveau point a un vieux 'slider' il deviendra un bezier.
 
 ## b1700 nouveau combo de spinner ne sont plus imposé
 
