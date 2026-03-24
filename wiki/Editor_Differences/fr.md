@@ -87,8 +87,7 @@ Creator:Digitalfear117
 
 # b53 à b144 (v3)
 
-Here is the first public release of osu! These are the oldest maps that are fully compatible in modern osu!, so if you want to map in pre-historic versions of the game, this is the most featured, and would require the least amount of additional effort to get working on your part.
-Voici la première sortie publique de osu! Ceux ce sont les 'beatmaps' les plus vielles qui sont entièrement compatible dans le osu! moderne, donc si vous voulez mapper dans une version pré-historique du jeu, elle la plus mise en avant et vous requierais le moins d'effort possible pour la fair marcher de votre côter. (unsure)
+Voici la première sortie publique de osu! Ceux ce sont les 'beatmaps' les plus vielles qui sont entièrement compatible dans le osu! moderne, donc si vous voulez mapper dans une version pré-historique du jeu, elle la plus mise en avant et vous requierais le moins d'effort possible pour la fair marcher de votre côter.
 
 Des changements notable dans le .osu v3 inclu l'autorisation d'ajuster les paramètres de difficulté. Notez que aucun de ces paramètres ne peuvent être mis en nombre décimales, et que l'OD et l'AR sont combinés: 
 
@@ -161,8 +160,7 @@ Example de .osu pour les volume d'hitsound:
 
 # b282 à b904 (v5)
 
-The switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in between b222 and b282. .osu v5 evolved a significant amount during it's time, so much so, that .osu v5's made in the last version that created this file format won't even work correctly in the first version that made this format!
-Le changement au .osu v5 a l'air d'avoir pris place le 03/24/2008, mais nous avons aucune versions entre b222 et b282. Le .osu v5 a significament évoluer pendant son temp, tellement que, le .osu v5 a été fait dans le dernière versions qui créer ce genre de fichier ne marcheras pas correctement dans le première version qui a fait ce format! (unsure)
+Le changement au .osu v5 a l'air d'avoir pris place le 24/03/2008, mais nous avons aucune versions entre b222 et b282. Le .osu v5 a significament évoluer pendant son temp, tellement que le .osu v5 qui a été fait dans le dernière versions qui crée ce genre de fichier ne marcheras pas correctement dans le première version qui a fait ce format!
 
 Les premières versions qui utilisent le .osu V5 ne sont pas maoritairement différent de ce qui était arriver avant, on aurait dit que le changement majeur est que les 25ms d'offset ont été enlever des nouvelles maps en allant de l'avant du a un changement que peppy a fait le 23 Mars 2008. Ceci est de son journal de modification officiel:
 
@@ -185,8 +183,7 @@ Jusqu'a ce moment, le premier point de tout les corps de 'slider' copier les coo
 
 ![Red anchor examples on all 3 slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b337_red_anchors.png)
 
-Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider to have a straight turn, but you want another part to have a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
-Ajouter une ancre rouge a slider 'Bezier' vous autorise a avoir une courbe serré, cela peut être utilse dans les situations ou vous voulez qu'une partie du 'slider' ai une courbe droite, mais que vous voulez une autre partie du slider d'avoir une courbe courbé. Les sliders ”Catmull” font une ampoule bouclé sur les ancres rouges, le joueur est forcé de tenir sur l'ancre rouge. Cela peut être utile pour des 'beatmaps' un plus centré sur de la 'gimmick', ou pour vraiment souligner un son sur un slider. En consequence de l'ampoule en revanche, le 'slider' apparaîtra plus petit que les autres types de courbures quand les slider sont identiques. Ajouter une ancre rouge a un slider 'Linéaire' ne fera pas de changement signifiant à celui-ci. (unsure)
+Ajouter une ancre rouge a slider 'Bezier' vous autorise a avoir une courbe serré et droite, cela peut être utilse dans les situations ou vous voulez qu'une partie du 'slider' ai une courbe droite, mais que vous voulez une autre partie du 'slider' ai une courbe courbé. Les sliders ”Catmull” font une ampoule bouclé sur les ancres rouges, le joueur est donc forcé de tenir sur l'ancre rouge. Cela peut être utile pour des 'beatmaps' un plus centré sur de la 'gimmick', ou pour vraiment souligner un son sur un slider. En consequence de l'ampoule en revanche, le 'slider' apparaîtra plus petit que les autres types de courbures quand les slider sont identiques. Ajouter une ancre rouge a un slider 'Linéaire' ne fera pas de changement signifiant à celui-ci.
 
 Les ancres rouges marchent dans le .osu en copiant la même ancre de 'slider' deux fois. Si le jeu voit deux points de 'slider' identique il le traiterai comme une ancre rouge.
 
@@ -201,7 +198,6 @@ Si vous appuyez sur le bouton du ”Distance Snap”, ou du ”Grid SNap”, le 
 
 ## b370 changer les types de courbature de 'slider' rapidement
 
-In this build you can easily try out the different slider curve types by pressing **A** **S** or **D**.
 Dans cettte version, vous pouvez facilement essayez les différents types de courbure de 'slider' en appuyant sur **A** **S** ou **D**.
 
 |Touche|Action |
@@ -238,8 +234,7 @@ Une fonctionalité incontrournable pour ceux qui mod par le IRC
 
 ![GoTo Time popup for jumping to a specific time stamp](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_goto_time_popup.png)
 
-Clicking on the time stamp at the bottom left allows you to go to any time in the map easily.
-Appuyez sur l'horodatage en bas a gauche vous autorise a aller à n'importe quelle temps dans la map facilement. (unsure)
+Appuyez sur l'horodatage en bas a gauche vous autorise a aller à n'importe quelle temps dans la map facilement.
 
 ## b394a tags
 
@@ -264,8 +259,7 @@ Ceci fait en sorte de voir les aspects de la map un peu pls facilement, comme ce
 
 ![b420 Timing Setup popup, showing off an interited timing point](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b420_timing_setup.png)
 
-You can tell if a timing point is inherited in the .osu based on if the last flag in the timing point is a 1 or a 0.
-Vous pouvez voir si un point de timing a héritée dans le .osu si le dernier signale du point de timing est un 1 ou un 0. (unsure)
+Vous pouvez voir si un point de timing est héritée dans le .osu si le dernier signale du point de timing est un 1 ou un 0.
 
 ```
 [TimingPoints]
@@ -273,8 +267,7 @@ Vous pouvez voir si un point de timing a héritée dans le .osu si le dernier si
 2555,600,4,2,0,65,1
 ```
 
-The last flag being 0 means inherited, and 1 means non inherited in this version, and for a decent amount of versions after this.
-Le dernier signale étant 0 veut dire que cette ligne a héritée, et 1 veut dire qu'elle n'a pas héritéée dans cette version, et pour une bonne poignée de versions après celle-la. (unsure, that whole version is unsure)
+Le dernier signale étant 0 veut dire que cette ligne est héritée, et 1 veut dire qu'elle n'est pas héritée dans cette version, et pour une bonne poignée de versions après celle-la.
 
 ## b452 hitsound de "clap"
 
