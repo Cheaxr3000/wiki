@@ -151,7 +151,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 | [BlueChinchompa] | 1     | **4** | **[Miku Hatsune]** | https://osu.titanic.sh/mp/2380 |
 |      **[Champ]** | **4** |     3 | [Alvarobot]        | https://osu.titanic.sh/mp/2382 |
 
-### Losers' Round 3 (Lower)
+### Phase des Perdants 3 (Inférieur)
 
 |           Player A |       |     | Player B      | Match Link                     |
 | -----------------: | :---- | --: | :------------ | :----------------------------- |
