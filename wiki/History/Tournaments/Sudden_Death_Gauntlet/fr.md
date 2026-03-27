@@ -49,9 +49,9 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 | Tête de série | Participant      |
 |:-------------:|------------------|
-| 1             | [Miku Hatsune]   |
-| 2             | [Champ]          |
-| 3             | [Alvarobot]      |
+| 1             | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
+| 2             | [Champ](https://osu.titanic.sh/u/96)          |
+| 3             | [Alvarobot](https://osu.titanic.sh/u/3147)      |
 | 4             | [Cocoamallows]   |
 | 5             | [BlueChinchompa] |
 | 6             | [kei]            |
@@ -70,9 +70,9 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 | Place  | Participant      |
 |-------:|------------------|
-| 1st 🥇 | [Champ]          |
-| 2nd 🥈 | [Miku Hatsune]   |
-| 3rd 🥉 | [Alvarobot]      |
+| 1st 🥇 | [Champ](https://osu.titanic.sh/u/96)          |
+| 2nd 🥈 | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
+| 3rd 🥉 | [Alvarobot](https://osu.titanic.sh/u/3147)      |
 | 4th 🏅 | [BlueChinchompa] |
 
 ## Mappools
@@ -117,85 +117,85 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 
 |    Joueur A |       |     | Joueur B       | Lien du Matche                 |
 | ----------: | :---- | --: | :------------- | :----------------------------- |
-| **[Champ]** | **4** |   2 | [Miku Hatsune] | https://osu.titanic.sh/mp/2391 |
+| **[Champ](https://osu.titanic.sh/u/96)** | **4** |   2 | [Miku Hatsune](https://osu.titanic.sh/u/3350) | https://osu.titanic.sh/mp/2391 |
 
 ### Finale des Perdants (Supérieur)
 
 |           Joueur A |       |     | Joueur B    | Lien du Matche                 |
 | -----------------: | :---- | --: | :---------- | :----------------------------- |
-| **[Miku Hatsune]** | **4** |   3 | [Alvarobot] | https://osu.titanic.sh/mp/2390 |
+| **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | **4** |   3 | [Alvarobot](https://osu.titanic.sh/u/3147) | https://osu.titanic.sh/mp/2390 |
 
 ### Finales (Supérieur)
 
 |       Joueur A |     |       | Joueur B    | Lien du Matche                 |
 | -------------: | :-- | ----: | :---------- | :----------------------------- |
-| [Miku Hatsune] | 1   | **4** | **[Champ]** | https://osu.titanic.sh/mp/2388 |
+| [Miku Hatsune](https://osu.titanic.sh/u/3350) | 1   | **4** | **[Champ](https://osu.titanic.sh/u/96)** | https://osu.titanic.sh/mp/2388 |
 
 ### Semi-finale des Perdants (Supérieur)
 
 |         Joueur A |     |       | Joueur B        | Lien du Matche                 |
 | ---------------: | :-- | ----: | :-------------- | :----------------------------- |
-| [BlueChinchompa] | 1   | **4** | **[Alvarobot]** | https://osu.titanic.sh/mp/2389 |
+| [BlueChinchompa] | 1   | **4** | **[Alvarobot](https://osu.titanic.sh/u/3147)** | https://osu.titanic.sh/mp/2389 |
 
-### Quard de Finale des Perdants Losers' Quarterfinals (Supérieur)
+### Quart de Finale des Perdants Losers' Quarterfinals (Supérieur)
 
 |             Joueur A |       |     | Joueur B       | Lien des Matches               |
 | -------------------: | :---- | --: | :------------- | :----------------------------- |
 | **[BlueChinchompa]** | **4** |   2 | [kei]          | https://osu.titanic.sh/mp/2387 |
-|      **[Alvarobot]** | **4** |   1 | [Cocoamallows] | https://osu.titanic.sh/mp/2386 |
+| **[Alvarobot](https://osu.titanic.sh/u/3147)** | **4** |   1 | [Cocoamallows] | https://osu.titanic.sh/mp/2386 |
 
 ### Semi-finale (Supérieur)
 
 |         Joueur A |       |       | Joueur B           | Liens des Matches              |
 | ---------------: | :---- | ----: | :----------------- | :----------------------------- |
-| [BlueChinchompa] | 1     | **4** | **[Miku Hatsune]** | https://osu.titanic.sh/mp/2380 |
-|      **[Champ]** | **4** |     3 | [Alvarobot]        | https://osu.titanic.sh/mp/2382 |
+| [BlueChinchompa] | 1     | **4** | **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | https://osu.titanic.sh/mp/2380 |
+| **[Champ](https://osu.titanic.sh/u/96)** | **4** |     3 | [Alvarobot](https://osu.titanic.sh/u/3147) | https://osu.titanic.sh/mp/2382 |
 
 ### Phase des Perdants 3 (Inférieur)
 
-|           Player A |       |     | Player B      | Match Link                     |
+|           Joueur A |       |     | Joueur B      | Liens des Matches              |
 | -----------------: | :---- | --: | :------------ | :----------------------------- |
 |          **[kei]** | **3** |   1 | [Hoshinomori] | https://osu.titanic.sh/mp/2385 |
 | **[Cocoamallows]** | 3     |   0 | [SlitherWing] | https://osu.titanic.sh/mp/2382 |
 
-### Losers' Round 2 (Lower)
+### Phase des Perdants 2 (Inférieur)
 
-|           Player A |       |     | Player B    | Match Link                     |
+|           Joueur A |       |     | Joueur B    | Liens des Matches              |
 | -----------------: | :---- | --: | :---------- | :----------------------------- |
 |          **[kei]** | **3** |   1 | [Gardevoir] | https://osu.titanic.sh/mp/2378 |
 |  **[Hoshinomori]** | **3** |   2 | [scug]      | https://osu.titanic.sh/mp/2383 |
 | **[Cocoamallows]** | **3** |   0 | [Mahogany]  | https://osu.titanic.sh/mp/2381 |
 |  **[SlitherWing]** | **3** |   1 | [7mochi]    | https://osu.titanic.sh/mp/2376 |
 
-### Quarterfinals (Lower)
+### Quart de Finale (Inférieur)
 
-|           Player A |       |       | Player B             | Match Link                     |
+|           Joueur A |       |       | Joueur B             | Liens des Matches              |
 | -----------------: | :---- | ----: | :------------------- | :----------------------------- |
-| **[Miku Hatsune]** | **3** |     1 | [SlitherWing]        | https://osu.titanic.sh/mp/2373 |
-|     [Cocoamallows] | 1     | **3** | **[BlueChinchompa]** | https://osu.titanic.sh/mp/2372 |
-|        **[Champ]** | **3** |     0 | [Hoshinomori]        | https://osu.titanic.sh/mp/2377 |
-|    **[Alvarobot]** | **3** |     2 | [kei]                | https://osu.titanic.sh/mp/2374 |
+| **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | **3** |     1 | [SlitherWing] | https://osu.titanic.sh/mp/2373 |
+| [Cocoamallows] | 1     | **3** | **[BlueChinchompa]** | https://osu.titanic.sh/mp/2372 |
+| **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Hoshinomori] | https://osu.titanic.sh/mp/2377 |
+| **[Alvarobot]** | **3** |     2 | [kei]                | https://osu.titanic.sh/mp/2374 |
 
-### Losers' Round 1 (Lower)
+### Phase des Perdants 1 (Inférieur)
 
-|         Player A |       |       | Player B        | Match Link                     |
+|         Joueur A |       |       | Joueur B        | Liens des Maatches             |
 | ---------------: | :---- | ----: | :-------------- | :----------------------------- |
 |         [Archen] | 0     | **3** | **[Gardevoir]** | https://osu.titanic.sh/mp/2369 |
 |       **[scug]** | **3** |     1 | [Rocio]         | https://osu.titanic.sh/mp/2371 |
 |          [Bikk0] | 0     | **3** | **[Mahogany]**  | https://osu.titanic.sh/mp/2375 |
 | [Digitalfear117] | 1     | **3** | **[7mochi]**    | https://osu.titanic.sh/mp/2370 |
 
-## Round 1 (Lower)
+## Tour 1 (Inférieur)
 
-|             Player A |       |       | Player B          | Match Link                     |
+|             Joueur A |       |       | Joueur B          | Liens des Matches              |
 | -------------------: | :---- | ----: | :---------------- | :----------------------------- |
-|   **[Miku Hatsune]** | **3** |     0 | [Archen]          | https://osu.titanic.sh/mp/2365 |
+| **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | **3** |     0 | [Archen]          | https://osu.titanic.sh/mp/2365 |
 |          [Gardevoir] | 0     | **3** | **[SlitherWing]** | https://osu.titanic.sh/mp/2362 |
 |   **[Cocoamallows]** | **3** |     0 | [scug]            | https://osu.titanic.sh/mp/2363 |
 | **[BlueChinchompa]** | **3** |     0 | [Rocio]           | https://osu.titanic.sh/mp/2367 |
-|          **[Champ]** | **3** |     0 | [Bikk0]           | https://osu.titanic.sh/mp/2364 |
+|          **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Bikk0]           | https://osu.titanic.sh/mp/2364 |
 |    **[Hoshinomori]** | **3** |     2 | [Mahogany]        | https://osu.titanic.sh/mp/2368 |
-|      **[Alvarobot]** | **3** |     0 | [Digitalfear117]  | https://osu.titanic.sh/mp/2366 |
+|      **[Alvarobot](https://osu.titanic.sh/u/3147)** | **3** |     0 | [Digitalfear117]  | https://osu.titanic.sh/mp/2366 |
 |            **[kei]** | **3** |     0 | [7mochi]          | https://osu.titanic.sh/mp/2360 |
 
 ## Ruleset
