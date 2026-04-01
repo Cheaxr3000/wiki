@@ -29,14 +29,14 @@ Le **Sudden Death Gauntlet** était untournois international de 1v1 sur un jour 
 
 Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
-| Position     | Membre(s)                                                                                                                                                               |
+| Position     | Membre(s)                                                                                                                                                        |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Manager      | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Mappooler    | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Streamer     | [willow](https://osu.titanic.sh/u/1088)                                                                                                                                 |
 | Commentateur | [dremu](https://osu.titanic.sh/u/659), [willow](https://osu.titanic.sh/u/1088)                                                                                          |
 | Arbitre      | [Cloudpaw](https://osu.titanic.sh/u/2302), [dremu](https://osu.titanic.sh/u/659), [ScissorLuv](https://osu.titanic.sh/u/3505), [Toasteh](https://osu.titanic.sh/u/4026) |
-| Designer     | [Nikku](https://osu.titanic.sh/u/811).                                                                                                                                  |
+| Designer     | [Nikku](https://osu.titanic.sh/u/811)                                                                                                                                   |
 | Mapper       | [SCAG](https://osu.titanic.sh/u/2631)                                                                                                                                   |
 
 ## Liens
@@ -47,33 +47,33 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 ## Participants
 
-| Tête de série | Participant      |
-|:-------------:|------------------|
+| Tête de série | Participant.                                    |
+|:-------------:|-------------------------------------------------|
 | 1             | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
-| 2             | [Champ](https://osu.titanic.sh/u/96)          |
-| 3             | [Alvarobot](https://osu.titanic.sh/u/3147)      |
-| 4             | [Cocoamallows]   |
-| 5             | [BlueChinchompa] |
-| 6             | [kei]            |
-| 7             | [Hoshinomori]    |
-| 8             | [Gardevoir]      |
-| 9             | [SlitherWing]    |
-| 10            | [Mahogany]       |
-| 11            | [7mochi]         |
-| 12            | [Rocio]          |
-| 13            | [scug]           |
-| 14            | [Digitalfear117] |
-| 15            | [Bikk0]          |
-| 16            | [Archen]         |
+| 2             | [Champ](https://osu.titanic.sh/u/96)            |
+| 3             | [Alvarobot](https://osu.titanic.sh/u/3147)      | 
+| 4             | [Cocoamallows](https://osu.titanic.sh/u/3627)   |
+| 5             | [BlueChinchompa](https://osu.titanic.sh/u/40)   |
+| 6             | [kei](https://osu.titanic.sh/u/3164)            |
+| 7             | [Hoshinomori](https://osu.titanic.sh/u/3370)    |
+| 8             | [Gardevoir](https://osu.titanic.sh/u/2619)      |
+| 9             | [SlitherWing](https://osu.titanic.sh/u/2064)    |
+| 10            | [Mahogany](https://osu.titanic.sh/u/2036)       |
+| 11            | [7mochi](https://osu.titanic.sh/u/364)          |
+| 12            | [Rocio](https://osu.titanic.sh/u/3257)          |
+| 13            | [scug](https://osu.titanic.sh/u/636)            |
+| 14            | [Digitalfear117](https://osu.titanic.sh/u/809)  |
+| 15            | [Bikk0](https://osu.titanic.sh/u/3825)          |
+| 16            | [Archen](https://osu.titanic.sh/u/830)          |
 
 ## Podium
 
 | Place  | Participant      |
 |-------:|------------------|
-| 1st 🥇 | [Champ](https://osu.titanic.sh/u/96)          |
+| 1st 🥇 | [Champ](https://osu.titanic.sh/u/96)            |
 | 2nd 🥈 | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
 | 3rd 🥉 | [Alvarobot](https://osu.titanic.sh/u/3147)      |
-| 4th 🏅 | [BlueChinchompa] |
+| 4th 🏅 | [BlueChinchompa](https://osu.titanic.sh/u/40)   |
 
 ## Mappools
 
@@ -193,7 +193,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 |          [Gardevoir](https://osu.titanic.sh/u/2619) | 0     | **3** | **[SlitherWing](https://osu.titanic.sh/u/2064)** | https://osu.titanic.sh/mp/2362 |
 |   **[Cocoamallows](https://osu.titanic.sh/u/3627)** | **3** |     0 | [scug](https://osu.titanic.sh/u/636)             | https://osu.titanic.sh/mp/2363 |
 |   **[BlueChinchompa](https://osu.titanic.sh/u/40)** | **3** |     0 | [Rocio](https://osu.titanic.sh/u/3257)           | https://osu.titanic.sh/mp/2367 |
-|            **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Bikk0]https://osu.titanic.sh/u/3825)            | https://osu.titanic.sh/mp/2364 |
+|            **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Bikk0](https://osu.titanic.sh/u/3825)            | https://osu.titanic.sh/mp/2364 |
 |    **[Hoshinomori](https://osu.titanic.sh/u/3370)** | **3** |     2 | [Mahogany](https://osu.titanic.sh/u/2036)        | https://osu.titanic.sh/mp/2368 |
 |      **[Alvarobot](https://osu.titanic.sh/u/3147)** | **3** |     0 | [Digitalfear117](https://osu.titanic.sh/u/809)   | https://osu.titanic.sh/mp/2366 |
 |            **[kei](https://osu.titanic.sh/u/3164)** | **3** |     0 | [7mochi](https://osu.titanic.sh/u/364)           | https://osu.titanic.sh/mp/2360 |
