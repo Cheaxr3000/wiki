@@ -1,22 +1,22 @@
 # Sudden Death Gauntlet
 
-Le **Sudden Death Gauntlet** était untournois international de 1v1 sur un jour à double élimination hosté par [Cloudpaw](https://osu.titanic.sh/u/2302).
+Le **Sudden Death Gauntlet** était un tournois international de 1v1 sur un jour à double élimination hosté par [Cloudpaw](https://osu.titanic.sh/u/2302).
 
 ## Planning
 
-| Event                                         | Timestamp             |
-| --------------------------------------------: |-----------------------|
-| Insriptions ouverte                           | 17/01/2026, 18:00 UTC |
-| Inscriptions fermée / Début d'enregistrement  | 31/01/2026, 17:00 UTC |
-| Début des poules                              | 31/01/2026, 18:00 UTC |
+| Event                                          | Timestamp             |
+| ---------------------------------------------: |-----------------------|
+| Inscriptions ouverte                           | 17/01/2026, 18:00 UTC |
+| Inscriptions fermée / Début d'enregistrement   | 31/01/2026, 17:00 UTC |
+| Début des poules                               | 31/01/2026, 18:00 UTC |
 
-## Prizes
+## Prix
 
-| Position | Prix.                         |
+| Position | Prix                          |
 | -------- | ----------------------------- |
 | 1er      | Badge de profil               |
-| 2ème     | Icone de profile (en attente) |
-| 3ème     | Icone de profile (en attente) |
+| 2ème     | Icône de profile (en attente) |
+| 3ème     | Icône de profile (en attente) |
 
 
 <figure>
@@ -27,11 +27,11 @@ Le **Sudden Death Gauntlet** était untournois international de 1v1 sur un jour 
 
 ## Organization
 
-Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
+Le Sudden Death Gauntlet était tenu par quelques membres de la communauté.
 
 | Position     | Membre(s)                                                                                                                                                        |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Manager      | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
+| Manageur     | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Mappooler    | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Streamer     | [willow](https://osu.titanic.sh/u/1088)                                                                                                                                 |
 | Commentateur | [dremu](https://osu.titanic.sh/u/659), [willow](https://osu.titanic.sh/u/1088)                                                                                          |
@@ -47,7 +47,7 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 ## Participants
 
-| Tête de série | Participant.                                    |
+| Tête de série | Participant                                     |
 |:-------------:|-------------------------------------------------|
 | 1             | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
 | 2             | [Champ](https://osu.titanic.sh/u/96)            |
@@ -68,8 +68,8 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 ## Podium
 
-| Place  | Participant      |
-|-------:|------------------|
+| Place  | Participant                                     |
+|-------:|-------------------------------------------------|
 | 1st 🥇 | [Champ](https://osu.titanic.sh/u/96)            |
 | 2nd 🥈 | [Miku Hatsune](https://osu.titanic.sh/u/3350)   |
 | 3rd 🥉 | [Alvarobot](https://osu.titanic.sh/u/3147)      |
@@ -77,11 +77,11 @@ Le Sudden Death Gauntlet était tenu par quelque membre de la communauté.
 
 ## Mappools
 
-### Phase Supérieur
+### Phase Supérieure
 
 [Télécharger le mappack ici (52.8 MB)](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Upper%20Stage.zip)
 
-La Phase Supérieur est un pool en BO7 pour le Top 6.
+La Phase Supérieure est un pool en BO7 pour le Top 6.
 
 | Mod | Beatmap                                                                                          | Notes                  |
 |:---:|--------------------------------------------------------------------------------------------------|------------------------|
@@ -95,11 +95,11 @@ La Phase Supérieur est un pool en BO7 pour le Top 6.
 | DT2 | [Scarf! - Odysee [Champion]](https://osu.titanic.sh/b/49098)                                     | 2:06, 210bpm, 5.5*     |
 | TB  | [Mili - Peach Pit and Cyanide [Fragrance]](https://osu.titanic.sh/b/1000003292)                  | 3:01, 154bpm, 5.6      |
 
-### Phase Inférieur
+### Phase Inférieure
 
 [Télecharger le mappack ici (49.3 MB)](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Lower%20Stage.zip)
 
-La Phase Inférieur est un pool en BO5 jouer avant le Top 6
+La Phase Inférieure est un pool en BO5 jouer avant le Top 6
 
 | Mod   | Beatmap                                                                                                    | Notes               |
 |:-----:|------------------------------------------------------------------------------------------------------------|---------------------|
@@ -113,7 +113,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 
 ## Résultat des matchs
 
-### Grande Finales (Supérieur)
+### Grande Finales (Supérieure)
 
 |    Joueur A                              |       |     | Joueur B                                      | Lien du Matche                 |
 | ---------------------------------------: | :---- | --: | :-------------------------------------------- | :----------------------------- |
@@ -125,40 +125,40 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 | ------------------------------------------------: | :---- | --: | :----------------------------------------- | :----------------------------- |
 | **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | **4** |   3 | [Alvarobot](https://osu.titanic.sh/u/3147) | https://osu.titanic.sh/mp/2390 |
 
-### Finales (Supérieur)
+### Finales (Supérieure)
 
 |                                      Joueur A |     |       | Joueur B                                 | Lien du Matche                 |
 | --------------------------------------------: | :-- | ----: | :--------------------------------------- | :----------------------------- |
 | [Miku Hatsune](https://osu.titanic.sh/u/3350) | 1   | **4** | **[Champ](https://osu.titanic.sh/u/96)** | https://osu.titanic.sh/mp/2388 |
 
-### Semi-finale des Perdants (Supérieur)
+### Semi-finale des Perdants (Supérieure)
 
 |                                      Joueur A |     |       | Joueur B                                       | Lien du Matche                 |
 | --------------------------------------------: | :-- | ----: | :--------------------------------------------- | :----------------------------- |
 | [BlueChinchompa](https://osu.titanic.sh/u/40) | 1   | **4** | **[Alvarobot](https://osu.titanic.sh/u/3147)** | https://osu.titanic.sh/mp/2389 |
 
-### Quart de Finale des Perdants Losers' Quarterfinals (Supérieur)
+### Quart de Finale Perdants (Supérieure)
 
 |                                          Joueur A |       |     | Joueur B                                      | Lien des Matches               |
 | ------------------------------------------------: | :---- | --: | :-------------------------------------------- | :----------------------------- |
 | **[BlueChinchompa](https://osu.titanic.sh/u/40)** | **4** |   2 | [kei](https://osu.titanic.sh/u/3164)          | https://osu.titanic.sh/mp/2387 |
 |    **[Alvarobot](https://osu.titanic.sh/u/3147)** | **4** |   1 | [Cocoamallows](https://osu.titanic.sh/u/3627) | https://osu.titanic.sh/mp/2386 |
 
-### Semi-finale (Supérieur)
+### Semi-finale (Supérieure)
 
 |                                      Joueur A |       |       | Joueur B                                          | Liens des Matches              |
 | --------------------------------------------: | :---- | ----: | :------------------------------------------------ | :----------------------------- |
 | [BlueChinchompa](https://osu.titanic.sh/u/40) | 1     | **4** | **[Miku Hatsune](https://osu.titanic.sh/u/3350)** | https://osu.titanic.sh/mp/2380 |
 |      **[Champ](https://osu.titanic.sh/u/96)** | **4** |     3 | [Alvarobot](https://osu.titanic.sh/u/3147)        | https://osu.titanic.sh/mp/2382 |
 
-### Phase des Perdants 3 (Inférieur)
+### Phase des Perdants 3 (Inférieure)
 
 |                                          Joueur A |       |     | Joueur B                                     | Liens des Matches              |
 | ------------------------------------------------: | :---- | --: | :------------------------------------------- | :----------------------------- |
 |          **[kei](https://osu.titanic.sh/u/3164)** | **3** |   1 | [Hoshinomori](https://osu.titanic.sh/u/3370) | https://osu.titanic.sh/mp/2385 |
 | **[Cocoamallows](https://osu.titanic.sh/u/3627)** | 3     |   0 | [SlitherWing](https://osu.titanic.sh/u/2064) | https://osu.titanic.sh/mp/2382 |
 
-### Phase des Perdants 2 (Inférieur)
+### Phase des Perdants 2 (Inférieure)
 
 |                                          Joueur A |       |     | Joueur B                                   | Liens des Matches              |
 | ------------------------------------------------: | :---- | --: | :----------------------------------------- | :----------------------------- |
@@ -167,7 +167,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 | **[Cocoamallows](https://osu.titanic.sh/u/3627)** | **3** |   0 | [Mahogany](https://osu.titanic.sh/u/2036)  | https://osu.titanic.sh/mp/2381 |
 |  **[SlitherWing](https://osu.titanic.sh/u/2064)** | **3** |   1 | [7mochi](https://osu.titanic.sh/u/364)     | https://osu.titanic.sh/mp/2376 |
 
-### Quart de Finale (Inférieur)
+### Quart de Finale (Inférieure)
 
 |                                          Joueur A |       |       | Joueur B                                            | Liens des Matches              |
 | ------------------------------------------------: | :---- | ----: | :-------------------------------------------------- | :----------------------------- |
@@ -176,7 +176,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 |          **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Hoshinomori](https://osu.titanic.sh/u/3370)        | https://osu.titanic.sh/mp/2377 |
 |    **[Alvarobot](https://osu.titanic.sh/u/3147)** | **3** |     2 | [kei](https://osu.titanic.sh/u/3164)                | https://osu.titanic.sh/mp/2374 |
 
-### Phase des Perdants 1 (Inférieur)
+### Phase des Perdants 1 (Inférieure)
 
 |                                           Joueur A |       |       | Joueur B                                       | Liens des Maatches             |
 | -------------------------------------------------: | :---- | ----: | :--------------------------------------------- | :----------------------------- |
@@ -185,7 +185,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 |          [Bikk0](https://osu.titanic.sh/u/3825)    | 0     | **3** | **[Mahogany](https://osu.titanic.sh/u/2036)**  | https://osu.titanic.sh/mp/2375 |
 | [Digitalfear117](https://osu.titanic.sh/u/809)     | 1     | **3** | **[7mochi](https://osu.titanic.sh/u/364)**     | https://osu.titanic.sh/mp/2370 |
 
-## Tour 1 (Inférieur)
+## Tour 1 (Inférieure)
 
 |                                            Joueur A |       |       | Joueur B                                         | Liens des Matches              |
 | --------------------------------------------------: | :---- | ----: | :----------------------------------------------- | :----------------------------- |
@@ -200,7 +200,7 @@ La Phase Inférieur est un pool en BO5 jouer avant le Top 6
 
 ## Règles
 
-Les règles peuvent être trouvé sur [le fil de discussion](https://osu.titanic.sh/forum/27/t/2666/).
+Les règles peuvent être trouvées sur [le fil de discussion](https://osu.titanic.sh/forum/27/t/2666/).
 <!-- TODO: Port this over, I'm just too tired right now -->
 
 [Cloudpaw]: https://osu.titanic.sh/u/2302
