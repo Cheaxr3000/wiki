@@ -29,8 +29,8 @@ Le **Sudden Death Gauntlet** était un tournois international de 1v1 sur un jour
 
 Le Sudden Death Gauntlet était tenu par quelques membres de la communauté.
 
-| Position     | Membre(s)                                                                                                                                                        |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Position     | Membre(s)                                                                                                                                                               |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Manageur     | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Mappooler    | [Cloudpaw](https://osu.titanic.sh/u/2302)                                                                                                                               |
 | Streamer     | [willow](https://osu.titanic.sh/u/1088)                                                                                                                                 |
@@ -193,7 +193,7 @@ La Phase Inférieure est un pool en BO5 jouer avant le Top 6
 |          [Gardevoir](https://osu.titanic.sh/u/2619) | 0     | **3** | **[SlitherWing](https://osu.titanic.sh/u/2064)** | https://osu.titanic.sh/mp/2362 |
 |   **[Cocoamallows](https://osu.titanic.sh/u/3627)** | **3** |     0 | [scug](https://osu.titanic.sh/u/636)             | https://osu.titanic.sh/mp/2363 |
 |   **[BlueChinchompa](https://osu.titanic.sh/u/40)** | **3** |     0 | [Rocio](https://osu.titanic.sh/u/3257)           | https://osu.titanic.sh/mp/2367 |
-|            **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Bikk0](https://osu.titanic.sh/u/3825)            | https://osu.titanic.sh/mp/2364 |
+|            **[Champ](https://osu.titanic.sh/u/96)** | **3** |     0 | [Bikk0](https://osu.titanic.sh/u/3825)           | https://osu.titanic.sh/mp/2364 |
 |    **[Hoshinomori](https://osu.titanic.sh/u/3370)** | **3** |     2 | [Mahogany](https://osu.titanic.sh/u/2036)        | https://osu.titanic.sh/mp/2368 |
 |      **[Alvarobot](https://osu.titanic.sh/u/3147)** | **3** |     0 | [Digitalfear117](https://osu.titanic.sh/u/809)   | https://osu.titanic.sh/mp/2366 |
 |            **[kei](https://osu.titanic.sh/u/3164)** | **3** |     0 | [7mochi](https://osu.titanic.sh/u/364)           | https://osu.titanic.sh/mp/2360 |
@@ -201,28 +201,3 @@ La Phase Inférieure est un pool en BO5 jouer avant le Top 6
 ## Règles
 
 Les règles peuvent être trouvées sur [le fil de discussion](https://osu.titanic.sh/forum/27/t/2666/).
-<!-- TODO: Port this over, I'm just too tired right now -->
-
-[Cloudpaw]: https://osu.titanic.sh/u/2302
-[willow]: https://osu.titanic.sh/u/1088
-[ScissorLuv]: https://osu.titanic.sh/u/3505
-[Toasteh]: https://osu.titanic.sh/u/4026
-[SCAG]: https://osu.titanic.sh/u/2631
-[dremu]: https://osu.titanic.sh/u/659
-[Nikku]: https://osu.titanic.sh/u/811
-[Miku Hatsune]: https://osu.titanic.sh/u/3350
-[Champ]: https://osu.titanic.sh/u/96
-[Alvarobot]: https://osu.titanic.sh/u/3147
-[Cocoamallows]: https://osu.titanic.sh/u/3627
-[BlueChinchompa]: https://osu.titanic.sh/u/40
-[kei]: https://osu.titanic.sh/u/3164
-[Hoshinomori]: https://osu.titanic.sh/u/3370
-[Gardevoir]: https://osu.titanic.sh/u/2619
-[SlitherWing]: https://osu.titanic.sh/u/2064
-[Mahogany]: https://osu.titanic.sh/u/2036
-[7mochi]: https://osu.titanic.sh/u/364
-[Rocio]: https://osu.titanic.sh/u/3257
-[scug]: https://osu.titanic.sh/u/636
-[Digitalfear117]: https://osu.titanic.sh/u/809
-[Bikk0]: https://osu.titanic.sh/u/3825
-[Archen]: https://osu.titanic.sh/u/830
