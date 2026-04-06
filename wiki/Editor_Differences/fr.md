@@ -2,25 +2,27 @@
 
 [TOC]
 
-### Écrie par Digitalfear117
+### Écrit par Digitalfear117
 
-Salut, je suis [Digitalfear117](https://osu.titanic.sh/u/809) et j'adore les vieux éditeurs. J'espère que les utilisateurs de titanic seront capable de mapper et classer des musiques utilisant n'importe quelle version disponible de osu! Ce guide décrit les fonctionalités dans l'ordre chronologique qu'elles ont été ajoutées. Il explique aussi comment le format de fichier. osu fonctionne, et ce que les valeurs font. Avec un peu de chance, par la fin de cette page vous saurez comment faire marcher des 'beatmap' moderne dans des vieux clients, et choisir le meilleur client pour faire vos 'beatmaps'!
+Salut, je suis [Digitalfear117](https://osu.titanic.sh/u/809) et j'adore les vieux éditeurs. J'espère que les utilisateurs de titanic seront capable de mapper et classer des musiques utilisant n'importe quelle version disponible de osu! Ce guide décrit les fonctionnalités dans l'ordre chronologique qu'elles ont été ajoutées. Il explique aussi comment le format de fichier. osu fonctionne, et ce que les valeurs font. Avec un peu de chance, par la fin de cette page vous saurez comment faire marcher des 'beatmap' modernes dans des vieux clients, et choisir le meilleur client pour faire vos 'beatmaps'!
 
-J'ai omis certaine versions de cette liste ca je ne trouvait pas qu'ils avaient des changements assez signifiant avec eux. Si j'ai oublié quelque chose, n'hésitez pas a me contacter, ou contribuer a cette page!
+J'ai omis certaines versions de cette liste car je ne trouvais pas qu'ils avaient des changements assez significatifs avec eux. Si j'ai oublié quelque chose, n'hésitez pas à me contacter, ou contribuer à cette page!
 
 ### Téleverser des maps sur titanic
 
-Pendant le developement de osu!, téleverser des maps à travers le ”Beatmap Submission System” (BSS) ont changé drastiquement. L'implementation du BSS sur titanic supporte tout les clients, même si il peut être un peu instable sur les plus vielle versions de osu!. Si vous rencontrez des problèmes, je reommanedrais d'utilisé mon client moddé b20130303, comme il vous autorises a outre-passer de mettre à jour la 'beatmap' avant le téleversement. Cela est particulièrement utile si vous voulez préservez la compabilité avec le client original que vous avez utiliser pour le 'mapping'!
+Pendant le développement de osu!, téléverser des maps à travers le "Beatmap Submission System" (BSS) à drastiquement changé. L'implémentation du BSS SUR Titanic supporte tous les clients, mais soyez conscient que les très vieux clients auront peut-être quelques limitations dues à leur âge (comme changer le nom de difficulté, ce qui crée un nouvel ID de beatmap avant b20121003shine.test). En revanche, plus vieux est le client où la map a été faite, plus elle sera compatible. Sur Titanic, notre but est de nous assurer que les 'beatmaps' restent compatibles avec le plus de clients que raisonnablement possible. Je recommenderais d'utiliser mon [client moddé b20130303](https://osu.titanic.sh/forum/23/t/560/), car il offre pleins de fonctionnalités pour vous aidez à faire votre map compatible avec autant de clients que possible.
 
-# Versions de prélancement de osu! (v1)
+Le plus vieux client que vous pouvez utiliser pour téléverser des 'beatmaps' sur Titanic est le [client moddé b99 de Titanic](https://osu.titanic.sh/forum/23/t/2254/). En réalité ce client précède le BSS entièrement, mais il a été retroporté par [lunii](https://osu.titanic.sh/u/817) et [Digitalfear117](https://osu.titanic.sh/u/809)!
 
-Quelque versions de osu! existes qui prédate la beta publique officiel du jeu. Beacoupp des premières 'beatmaps' dans le jeu ont été fait pendant cette era de pré-lancement et ont été mis-à-jour par peppy aux .osu v3 puis classer.
+# Versions de pré lancement de osu! (v1)
+
+Quelques versions de osu! existes qui prédate la bêta publique officiel du jeu. Beaucoup des premières 'beatmaps' dans le jeu ont été faites pendant cette ère de pré-lancement et ont été mis-à-jour par peppy aux .osu v3 puis classer.
 
 ## 07-27-2007
 
-Cette version produit quelque une des 'beatmaps' les plus minimaliste de osu. Ce client manque la possibilité de faire quoique ce soit en dehors des cercles, même dans le .osu lla seul information est le 'hitobjects'
+Cette version a produit quelques-unes des 'beatmaps' les plus minimalistes de osu. Ce client manque la possibilité de faire quoique ce soit en dehors des cercles, même dans le .osu la seul information est le 'hit objects'
 
-Voici un exemple d'un cercle dans ette version:
+Voici un exemple d'un cercle dans cette version:
 
 `96,64,8118,5,4`
 
