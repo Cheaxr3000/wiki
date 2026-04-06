@@ -31,14 +31,15 @@ User                                             |                     Title    
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator                             |
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator                             |
 [Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
-[kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager                                  |
+[kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager / Global Moderator               |
+[Nikku](https://osu.titanic.sh/u/811)            | BAT Manager                                  |
 
 
 ## Beatmap Approval Team 
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
+[Avril](https://osu.titanic.sh/u/593)            | osu! BAT                                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
-[Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
 [Dark](https://osu.titanic.sh/u/812)             | osu!catch BAT                                |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
 [Ady](https://osu.titanic.sh/u/821)              | osu! BAT                                     |
